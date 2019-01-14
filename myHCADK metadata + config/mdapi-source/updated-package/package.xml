@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>CustomApplication</name>
+    <members>Health_Cloud_Lightning_Admin</members>
+    <members>Health_Cloud_Lightning_Console</members>
+  </types>
+  <types>
+    <name>FlexiPage</name>
+    <members>Health_Cloud_Lightning_Admin_UtilityBar</members>
+    <members>Health_Cloud_Lightning_Console_UtilityBar</members>
+    <members>Patient_Console_Page</members>
+    <members>Patient_Page</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
+  </types>
+  <types>
+    <name>CustomTab</name>
+    <members>Patient_Page</members>
+  </types>
+  <version>42.0</version>
+  <fullName>My Managed Package</fullName>
+</Package>

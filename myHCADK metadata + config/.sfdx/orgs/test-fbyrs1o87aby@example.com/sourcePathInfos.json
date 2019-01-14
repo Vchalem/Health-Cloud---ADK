@@ -1,0 +1,287 @@
+[
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1547234810463,
+            "changeTime": 1547234810463,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1547234810460,
+            "changeTime": 1547234810460,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1547082732715,
+            "changeTime": 1547082732715,
+            "contentHash": "7c5e020db153c3e336e706d9737b23ea3d40aebf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1547082732706,
+            "changeTime": 1547082732706,
+            "contentHash": "42feccf8aa40e094f77d0dfab9bd8f8207892b43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/applications/Health_Cloud_Lightning_Admin.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/applications/Health_Cloud_Lightning_Admin.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 994,
+            "modifiedTime": 1547082732704,
+            "changeTime": 1547082732704,
+            "contentHash": "c74c5366f952416d3b465a10a3302190568d6db2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/applications/Health_Cloud_Lightning_Console.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/applications/Health_Cloud_Lightning_Console.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2249,
+            "modifiedTime": 1547082732706,
+            "changeTime": 1547082732706,
+            "contentHash": "6d570766f5a95383a724fa70e093bba7540d8afa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1547082732701,
+            "changeTime": 1547082732701,
+            "contentHash": "08602f7469a04647d13557355b7329200f4fc31f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Admin_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Admin_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 523,
+            "modifiedTime": 1547082732696,
+            "changeTime": 1547082732696,
+            "contentHash": "2833e0aee2ef5673aa766999f052561dce86d35d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Console_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Console_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 525,
+            "modifiedTime": 1547082732701,
+            "changeTime": 1547082732701,
+            "contentHash": "66b42ba09ea94f82c6b9083454d26d2b5434f28a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Patient_Console_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Patient_Console_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1203,
+            "modifiedTime": 1547082732700,
+            "changeTime": 1547082732700,
+            "contentHash": "7fc698345505b1283f8860b077326d5c823ad3bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Patient_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/flexipages/Patient_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1547082732698,
+            "changeTime": 1547082732698,
+            "contentHash": "0de4e50af65b9598a863cdfdbc5a5f0e6c377d23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1547082732734,
+            "changeTime": 1547082732734,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18472,
+            "modifiedTime": 1547082732723,
+            "changeTime": 1547082732723,
+            "contentHash": "67df1efcf94190215a46fc9cbcc800fbfe3b2488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5053,
+            "modifiedTime": 1547082732731,
+            "changeTime": 1547082732731,
+            "contentHash": "49c9c419708823da78838987f22fea8a1939807c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5053,
+            "modifiedTime": 1547082732734,
+            "changeTime": 1547082732734,
+            "contentHash": "49c9c419708823da78838987f22fea8a1939807c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5391,
+            "modifiedTime": 1547082732727,
+            "changeTime": 1547082732727,
+            "contentHash": "e22f4b2c2bec9aa170ee60a6ff281cdb0550b643",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1547082732702,
+            "changeTime": 1547082732702,
+            "contentHash": "4c493b9c046cb86f8f46a723fca32874eeb78d82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK/force-app/main/default/tabs/Patient_Page.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK/force-app/main/default/tabs/Patient_Page.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1547082732702,
+            "changeTime": 1547082732702,
+            "contentHash": "b03560ef9b6171dad357aaf184508bd36b0e8900",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/myHCADK",
+        {
+            "state": "u",
+            "sourcePath": "/Users/vchalem/HCADK/myHCADK",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1547084459072,
+            "changeTime": 1547084459072,
+            "contentHash": "aef37070f2de407bd10e406f5707e08f9f67f1d9",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

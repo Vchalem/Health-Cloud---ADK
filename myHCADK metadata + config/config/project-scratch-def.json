@@ -1,0 +1,20 @@
+{
+    "orgName": "HC ADK",
+    "country": "US",
+    "edition": "Developer",
+    "description": "Contains a baseline demo of Health Cloud app.",
+    "features": [
+      "Communities",
+      "ContactsToMultipleAccounts"
+    ],
+    "orgPreferences": {
+      "enabled": [
+        "S1DesktopEnabled",
+        "ChatterEnabled",
+        "NetworksEnabled"      
+      ]
+    }
+  }
+
+
+  
