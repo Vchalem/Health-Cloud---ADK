@@ -1,2 +1,14 @@
-# Health-Cloud---ADK
-Sample repo of health cloud metadata &amp; config for spinning up scratch orgs 
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
