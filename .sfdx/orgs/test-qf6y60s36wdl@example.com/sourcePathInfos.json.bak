@@ -1,0 +1,302 @@
+[
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548172546770,
+            "changeTime": 1548172546770,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548172552727,
+            "changeTime": 1548172552727,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1548172552730,
+            "changeTime": 1548172552730,
+            "contentHash": "2aaf0ebc3a0894d85b8123b2532f290b4e4ff1c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1548170894189,
+            "changeTime": 1548170894189,
+            "contentHash": "42feccf8aa40e094f77d0dfab9bd8f8207892b43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/applications/Health_Cloud_Lightning_Admin.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/applications/Health_Cloud_Lightning_Admin.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 994,
+            "modifiedTime": 1548170894189,
+            "changeTime": 1548170894189,
+            "contentHash": "c74c5366f952416d3b465a10a3302190568d6db2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/applications/Health_Cloud_Lightning_Console.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/applications/Health_Cloud_Lightning_Console.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2249,
+            "modifiedTime": 1548170894190,
+            "changeTime": 1548170894190,
+            "contentHash": "6d570766f5a95383a724fa70e093bba7540d8afa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1548170894191,
+            "changeTime": 1548170894191,
+            "contentHash": "08602f7469a04647d13557355b7329200f4fc31f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Admin_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Admin_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 523,
+            "modifiedTime": 1548170894190,
+            "changeTime": 1548170894190,
+            "contentHash": "2833e0aee2ef5673aa766999f052561dce86d35d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Console_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Health_Cloud_Lightning_Console_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8896,
+            "modifiedTime": 1548170894190,
+            "changeTime": 1548170894190,
+            "contentHash": "ca4a6bee8902334bdec2ae27ed79dc963edc816d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Patient_Console_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Patient_Console_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1203,
+            "modifiedTime": 1548170894191,
+            "changeTime": 1548170894191,
+            "contentHash": "7fc698345505b1283f8860b077326d5c823ad3bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Patient_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/flexipages/Patient_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1548170894191,
+            "changeTime": 1548170894191,
+            "contentHash": "0de4e50af65b9598a863cdfdbc5a5f0e6c377d23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1548170894192,
+            "changeTime": 1548170894192,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18472,
+            "modifiedTime": 1548170894191,
+            "changeTime": 1548170894191,
+            "contentHash": "67df1efcf94190215a46fc9cbcc800fbfe3b2488",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5053,
+            "modifiedTime": 1548170894192,
+            "changeTime": 1548170894192,
+            "contentHash": "49c9c419708823da78838987f22fea8a1939807c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5053,
+            "modifiedTime": 1548170894192,
+            "changeTime": 1548170894192,
+            "contentHash": "49c9c419708823da78838987f22fea8a1939807c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5391,
+            "modifiedTime": 1548170894192,
+            "changeTime": 1548170894192,
+            "contentHash": "e22f4b2c2bec9aa170ee60a6ff281cdb0550b643",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/settings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548170894192,
+            "changeTime": 1548170894192,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1548170894193,
+            "changeTime": 1548170894193,
+            "contentHash": "4c493b9c046cb86f8f46a723fca32874eeb78d82",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/tabs/Patient_Page.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK/force-app/main/default/tabs/Patient_Page.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1548170894193,
+            "changeTime": 1548170894193,
+            "contentHash": "b03560ef9b6171dad357aaf184508bd36b0e8900",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/HCADK/Health-Cloud---ADK",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/HCADK/Health-Cloud---ADK",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1548174576077,
+            "changeTime": 1548174576077,
+            "contentHash": "2f644f84e5ecf54265bf4744d886b516fd468f96",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
