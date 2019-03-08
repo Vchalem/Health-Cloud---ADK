@@ -8,9 +8,6 @@
 //─────────────────────────────────────────────────────────────────────────────────────────────────┘
 public class HCDemoPack_DataSetup {
 
-  // Get the RecordType IDs for this org.
-  public static Map<String,RecordType> recordTypes = getFscRecordTypeIds();
-
     public static void preSetupForDemoData() {
         // Pre-setup: ENable Person Account
         // Separating it because Custom Setting doesn't show in records below if inserted in same transaction
