@@ -3,6 +3,6 @@
         "sobject": "HealthCloudGA__CarePlanTemplate__c",
         "saveRefs": true,
         "resolveRefs": false,
-        "files": ["HealthCloudGA__CarePlanTemplate__cs.json"]
+        "files": ["HealthCloudGA__CarePlanTemplate__c.json"]
     }
 ]
