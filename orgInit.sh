@@ -15,6 +15,7 @@ sfdx force:source:push
 sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
 
+sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
 
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 #sfdx force:apex:execute -f config/create-demo-data.apex
