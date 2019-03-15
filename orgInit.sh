@@ -15,11 +15,11 @@ sfdx force:source:push
 sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
 
-# Include the comprehensive plan in the future, when it all works
-#sfdx force:data:tree:import --plan data/Plan1.json
+# Include the comprehensive plan to load all data items
+sfdx force:data:tree:import --plan data/Plan1.json
 
-# For now, do it as individual steps, to work through each
-sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
+# Alternatively, load individual items, while working through them
+#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
 #sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateProblem__c-plan.json
 
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
