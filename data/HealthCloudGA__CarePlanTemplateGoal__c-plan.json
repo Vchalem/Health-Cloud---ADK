@@ -1,0 +1,8 @@
+[
+    {
+        "sobject": "HealthCloudGA__CarePlanTemplateGoal__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__CarePlanTemplateGoal__c.json"]
+    }
+]

@@ -19,8 +19,10 @@ sfdx force:user:permset:assign -n HealthCloudAdmin
 sfdx force:data:tree:import --plan data/Plan1.json
 
 # Alternatively, load individual items, while working through them
-#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
-#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateProblem__c-plan.json
+sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
+sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateProblem__c-plan.json
+sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateGoal__c-plan.json
+sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateTask__c-plan.json
 
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 #sfdx force:apex:execute -f config/create-demo-data.apex
