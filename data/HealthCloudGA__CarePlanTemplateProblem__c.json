@@ -6,13 +6,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef1"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6dUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef1"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef1",
             "HealthCloudGA__Priority__c": "High",
             "HealthCloudGA__SortOrder__c": 10,
             "Name": "Inpatient Knee Rehabilitation"
@@ -23,13 +17,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef2"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6eUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef2"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef2",
             "HealthCloudGA__SortOrder__c": 10,
             "Name": "Insure ability for patient to perform safe transfers in and out of bed"
         },
@@ -39,13 +27,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef3"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6eUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef2"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef2",
             "HealthCloudGA__SortOrder__c": 20,
             "Name": "Patient can use recovery arm for feeding himself"
         },
@@ -55,13 +37,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef4"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6eUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef2"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef2",
             "HealthCloudGA__SortOrder__c": 40,
             "Name": "Initiate Home Exercise Program"
         },
@@ -71,13 +47,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef5"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6eUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef2"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef2",
             "HealthCloudGA__SortOrder__c": 50,
             "Name": "Decrease in swelling around the site"
         },
@@ -87,13 +57,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef6"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6eUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef2"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef2",
             "HealthCloudGA__SortOrder__c": 70,
             "Name": "Increase knee range of motion"
         },
@@ -103,13 +67,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef7"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6fUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef3"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef3",
             "HealthCloudGA__Description__c": "Basic diabetes self-care needed",
             "HealthCloudGA__Priority__c": "High",
             "HealthCloudGA__SortOrder__c": 1,
@@ -121,13 +79,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef8"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6jUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef7"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef7",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "HealthCloudGA__SortOrder__c": 1,
@@ -139,13 +91,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef9"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6gUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef4"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef4",
             "HealthCloudGA__SortOrder__c": 3,
             "Name": "Basic diabetes self-care needed"
         },
@@ -155,13 +101,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef10"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6gUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef4"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef4",
             "HealthCloudGA__SortOrder__c": 4,
             "Name": "Diabetes medication evaluation needed"
         },
@@ -171,13 +111,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef11"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6gUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef4"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef4",
             "HealthCloudGA__SortOrder__c": 2,
             "Name": "Diabetes potential complications and comorbidities monitoring needed"
         },
@@ -187,13 +121,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef12"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6gUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef4"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef4",
             "HealthCloudGA__SortOrder__c": 1,
             "Name": "Basic diabetes information needed"
         },
@@ -203,13 +131,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef13"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6iUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef6"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef6",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "HealthCloudGA__SortOrder__c": 1,
@@ -221,13 +143,7 @@
                 "referenceId": "HealthCloudGA__CarePlanTemplateProblem__cRef14"
             },
             "HealthCloudGA__Active__c": true,
-            "HealthCloudGA__CarePlanTemplate__r": {
-                "attributes": {
-                    "type": "HealthCloudGA__CarePlanTemplate__c",
-                    "url": "/services/data/v45.0/sobjects/HealthCloudGA__CarePlanTemplate__c/a4A1U0000001L6hUAE"
-                },
-                "Name": "HealthCloudGA__CarePlanTemplate__cRef5"
-            },
+            "HealthCloudGA__CarePlanTemplate__c": "@HealthCloudGA__CarePlanTemplate__cRef5",
             "HealthCloudGA__Description__c": "Lacks Education of Condition",
             "HealthCloudGA__Priority__c": "High",
             "HealthCloudGA__SortOrder__c": 1,
