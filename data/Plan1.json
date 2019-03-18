@@ -10,5 +10,17 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": ["HealthCloudGA__CarePlanTemplateProblem__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__CarePlanTemplateGoal__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__CarePlanTemplateGoal__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__CarePlanTemplateTask__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__CarePlanTemplateTask__c.json"]
     }
 ]
