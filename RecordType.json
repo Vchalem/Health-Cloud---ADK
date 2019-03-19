@@ -1,0 +1,196 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef1"
+            },
+            "DeveloperName": "PatientList",
+            "Name": "PatientList",
+            "SobjectType": "HealthCloudGA__FilterCriterion__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef2"
+            },
+            "DeveloperName": "Timeline",
+            "Name": "Timeline",
+            "SobjectType": "HealthCloudGA__FilterCriterion__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef3"
+            },
+            "DeveloperName": "ChronicCareManagement",
+            "Name": "Chronic Care Management",
+            "SobjectType": "HealthCloudGA__Program__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef4"
+            },
+            "DeveloperName": "CMSRiskScoring",
+            "Name": "CMS Risk Scoring",
+            "SobjectType": "HealthCloudGA__Program__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef5"
+            },
+            "Description": "Roles associated with Account-Account Relationships",
+            "DeveloperName": "AccountRole",
+            "Name": "Account Role",
+            "SobjectType": "HealthCloudGA__ReciprocalRole__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef6"
+            },
+            "Description": "Roles associated with Contact-Contact Relationships",
+            "DeveloperName": "ContactRole",
+            "Name": "Contact Role",
+            "SobjectType": "HealthCloudGA__ReciprocalRole__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef7"
+            },
+            "DeveloperName": "ChronicCareManagement",
+            "Name": "Chronic Care Management",
+            "SobjectType": "HealthCloudGA__ProgramPatientSummary__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef8"
+            },
+            "DeveloperName": "RiskScoring",
+            "Name": "Risk Scoring",
+            "SobjectType": "HealthCloudGA__ProgramPatientSummary__c"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef9"
+            },
+            "Description": "Represents a business or an organization",
+            "DeveloperName": "IndustriesBusiness",
+            "Name": "Business",
+            "SobjectType": "Account"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef10"
+            },
+            "Description": "Represents a Household",
+            "DeveloperName": "IndustriesHousehold",
+            "Name": "Household",
+            "SobjectType": "Account"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef11"
+            },
+            "Description": "Represents an Individual",
+            "DeveloperName": "IndustriesIndividual",
+            "Name": "Individual",
+            "SobjectType": "Account"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef12"
+            },
+            "Description": "Represents a Payer",
+            "DeveloperName": "IndustriesPayer",
+            "Name": "Payer",
+            "SobjectType": "Account"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef13"
+            },
+            "Description": "Defines a care gap for an individual",
+            "DeveloperName": "CareGap",
+            "Name": "CareGap",
+            "SobjectType": "Case"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef14"
+            },
+            "Description": "Defines a care plan for an individual and their care team",
+            "DeveloperName": "CarePlan",
+            "Name": "CarePlan",
+            "SobjectType": "Case"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef15"
+            },
+            "Description": "Represents a Business",
+            "DeveloperName": "IndustriesBusiness",
+            "Name": "Business",
+            "SobjectType": "Contact"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef16"
+            },
+            "Description": "Represents an Individual",
+            "DeveloperName": "IndustriesIndividual",
+            "Name": "Individual",
+            "SobjectType": "Contact"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef17"
+            },
+            "Description": "Patient record type",
+            "DeveloperName": "Patient",
+            "Name": "Patient",
+            "SobjectType": "Lead"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef18"
+            },
+            "DeveloperName": "PatientReferral",
+            "Name": "Patient Referral",
+            "SobjectType": "Lead"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef19"
+            },
+            "DeveloperName": "Patient_Referral",
+            "Name": "Patient Referral",
+            "SobjectType": "Opportunity"
+        },
+        {
+            "attributes": {
+                "type": "RecordType",
+                "referenceId": "RecordTypeRef20"
+            },
+            "Description": "Task related to healthcare plan",
+            "DeveloperName": "CarePlanTask",
+            "Name": "Care Plan Task",
+            "SobjectType": "Task"
+        }
+    ]
+}

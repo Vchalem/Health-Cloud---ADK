@@ -23,5 +23,11 @@
         "resolveRefs": true,
         "files": ["HealthCloudGA__CarePlanTemplateTask__c.json"]
     }
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["Account"]
+    }
 
 ]
