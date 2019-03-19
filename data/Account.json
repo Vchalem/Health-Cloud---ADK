@@ -21,13 +21,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5UgCAAV1466706568536",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKZeQAO"
-                },
-                "Name": "Roy Green"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -100,13 +93,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5VUQAA31466707024358",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKaLQAW"
-                },
-                "Name": "Steven Hamilton"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -147,13 +133,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5UfdAAF1466706535154",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKbFQAW"
-                },
-                "Name": "Philip Hamilton"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -237,13 +216,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0014600000jJZIGAA41495132559127",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKYeQAO"
-                },
-                "Name": "Joni Green"
-            },
             "CleanStatus": "Pending",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -277,13 +249,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5UIgAAN1466705493068",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKYiQAO"
-                },
-                "Name": "David Morrison"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -324,13 +289,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5VUNAA31466707024358",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKSSQA4"
-                },
-                "Name": "Shawna Green"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -372,13 +330,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5Sa6AAF1466703191917",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKSTQA4"
-                },
-                "Name": "Charles Green"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -441,13 +392,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5UPoAAN1466705834055",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKZ6QAO"
-                },
-                "Name": "Janet Campbell"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
@@ -488,13 +432,6 @@
                 "DeveloperName": "IndustriesIndividual"
             },
             "HealthCloudGA__IndividualId__c": "0013600000Q5UPnAAN1466705834055",
-            "HealthCloudGA__PrimaryContact__r": {
-                "attributes": {
-                    "type": "Contact",
-                    "url": "/services/data/v45.0/sobjects/Contact/0031U000006MKZ7QAO"
-                },
-                "Name": "Jane Hamilton"
-            },
             "HealthCloudGA__CarePlan__r": {
                 "attributes": {
                     "type": "Case",
