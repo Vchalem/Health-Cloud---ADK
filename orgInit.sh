@@ -23,6 +23,7 @@ sfdx force:data:tree:import --plan data/Plan1.json
 #sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateProblem__c-plan.json
 #sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateGoal__c-plan.json
 #sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateTask__c-plan.json
+#sfdx force:data:tree:import --plan data/RecordType-plan.json
 
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 #sfdx force:apex:execute -f config/create-demo-data.apex
