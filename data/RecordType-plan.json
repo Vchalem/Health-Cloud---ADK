@@ -1,8 +1,0 @@
-[
-    {
-        "sobject": "RecordType",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": ["RecordType.json"]
-    }
-]
