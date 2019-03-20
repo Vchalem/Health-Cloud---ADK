@@ -1,3 +1,6 @@
 package.xml
 AppSwitcher.appMenu
 force-app/main/default/settings/OrgPreference.settings-meta.xml
+**/jsconfig.json
+
+**/.eslintrc.json
