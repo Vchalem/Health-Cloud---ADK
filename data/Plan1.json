@@ -28,13 +28,13 @@
         "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": true,
-        "files": ["Account"]
+        "files": ["Account.json"]
     },
      {
         "sobject": "Contact",
         "saveRefs": true,
         "resolveRefs": true,
-        "files": ["Contact"]
+        "files": ["Contact.json"]
     }
 
     **/
