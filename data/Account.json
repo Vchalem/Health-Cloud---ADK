@@ -6,28 +6,8 @@
                 "referenceId": "AccountRef1"
             },
             "Name": "Roy Green",
-            "Owner": {
-                "attributes": {
-                    "type": "User",
-                    "url": "/services/data/v45.0/sobjects/User/0051U000002a37jQAA"
-                },
-                "Name": "Melinda Smith"
-            },
-            "RecordType": {
-                "attributes": {
-                    "type": "RecordType",
-                    "url": "/services/data/v45.0/sobjects/RecordType/0121U0000011itvQAA"
-                },
-                "DeveloperName": "IndustriesIndividual"
-            },
+            "RecordTypeId": "$R{RecordType.Account.IndustriesIndividual}",
             "HealthCloudGA__IndividualId__c": "0013600000Q5UgCAAV1466706568536",
-            "HealthCloudGA__CarePlan__r": {
-                "attributes": {
-                    "type": "Case",
-                    "url": "/services/data/v45.0/sobjects/Case/5001U000003ZQyuQAG"
-                },
-                "CaseNumber": "00001993"
-            },
             "CleanStatus": "Pending",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -39,7 +19,9 @@
             "IsCustomerPortal": false,
             "IsPartner": false,
             "PhotoUrl": "/services/images/photo/0011U000008JINLQA4"
-        },
+        }
+        /*
+        ,
         {
             "attributes": {
                 "type": "Account",
@@ -451,5 +433,6 @@
             "IsPartner": false,
             "PhotoUrl": "/services/images/photo/0011U000008JIMoQAO"
         }
+        */
     ]
 }

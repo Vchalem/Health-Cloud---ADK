@@ -3,6 +3,6 @@
         "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": false,
-        "files": ["Account"]
+        "files": ["Account.json"]
     }
 ]
