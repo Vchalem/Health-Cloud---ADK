@@ -10,10 +10,10 @@ sfdx plugins:install sfdx-wry-plugin
 sfdx wry:file:replace -u HCADK2 -i data/preprocess
 
 # Copy the Account-plan into the newly created directory with converted files
-cp data/Account-plan.json data/preprocess.out/
+cp data/Plan2.json data/preprocess.out/
 
 # Load the newly converted files from the output directory
-sfdx force:data:tree:import -u HealthCloudScratchOrg -p data/preprocess.out/Account-plan.json
+sfdx force:data:tree:import -u HCADK2 -p data/preprocess.out/Plan2.json
 
 # Alternatively, load individual items, while working through them
 #sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
