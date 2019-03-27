@@ -70,31 +70,6 @@
         {
             "attributes": {
                 "type": "Account",
-                "referenceId": "AccountRef5"
-            },
-            "Name": "Greenville Hospital System",
-            "RecordTypeId": "$R{RecordType.Account.Health_Care_Facility}",
-            "BillingCity": "Greenville",
-            "BillingCountry": "United States",
-            "BillingGeocodeAccuracy": "Address",
-            "BillingLatitude": 34.817557,
-            "BillingLongitude": -82.410525,
-            "BillingPostalCode": "29605-4286",
-            "BillingState": "SC",
-            "BillingStreet": "890 W Faris Rd Ste 440",
-            "BillingGeocodeAccuracy": "Address",
-            "CleanStatus": "Pending",
-            "HealthCloudGA__Disabled__c": false,
-            "HealthCloudGA__Institution__c": false,
-            "HealthCloudGA__LowIncome__c": false,
-            "HealthCloudGA__MedicaidEligibilityStatus__c": false,
-            "Industry": "Healthcare",
-            "Phone": "+1.864.455.5070",
-            "Type": "Hospital"
-        },
-        {
-            "attributes": {
-                "type": "Account",
                 "referenceId": "AccountRef6"
             },
             "Name": "Joni Green",
