@@ -26,7 +26,7 @@ sfdx plugins:install sfdx-wry-plugin
 #rm -rf data/preprocess.out
 
 # Use the plug-in to convert the files with DeveloperName to SF ID's for this org
-sfdx wry:file:replace -u HCADK2 -i data/preprocess
+sfdx wry:file:replace -i data/preprocess
 
 # Copy the Account-plan into the newly created directory with converted files
 cp data/Plan2.json data/preprocess.out/
