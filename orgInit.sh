@@ -17,7 +17,7 @@ sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
 
 # Execute the plan to load the first batch of data items
-sfdx force:data:tree:import -u HCADK2 -p data/Plan1.json
+sfdx force:data:tree:import -p data/Plan1.json
 
 # Install the plugin to handle RecordType Ids, in case it wasn't already installed.
 sfdx plugins:install sfdx-wry-plugin
@@ -32,6 +32,6 @@ sfdx wry:file:replace -u HCADK2 -i data/preprocess
 cp data/Plan2.json data/preprocess.out/
 
 # Load the newly converted files from the output directory
-sfdx force:data:tree:import -u HCADK2 -p data/preprocess.out/Plan2.json
+sfdx force:data:tree:import -p data/preprocess.out/Plan2.json
 
 sfdx force:org:open
