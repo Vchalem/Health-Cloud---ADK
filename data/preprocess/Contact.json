@@ -21,6 +21,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Green",
+            "MailingState": "CA",
             "Phone": "333-956-8795"
         },
         {
@@ -44,6 +45,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Hamilton",
+            "MailingState": "CO",
             "Phone": "333-956-8822"
         },
         {
@@ -67,6 +69,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Hamilton",
+            "MailingState": "CO",
             "Phone": "304-953-3224"
         },
         {
@@ -90,6 +93,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Green",
+            "MailingState": "CA",
             "Phone": "960-654-3281"
         },
         {
@@ -148,6 +152,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Green",
+            "MailingState": "CA",
             "MobilePhone": "333-956-8816",
             "Phone": "333-956-8816"
         },
@@ -218,6 +223,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Campbell",
+            "MailingState": "NY",
             "Phone": "214-569-3268"
         },
         {
@@ -241,6 +247,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Hamilton",
+            "MailingState": "FL",
             "Phone": "214-569-3267"
         },
         {
@@ -264,6 +271,7 @@
             "HealthCloudGA__SecondaryLanguage__c": "English",
             "HealthCloudGA__SourceSystem__c": "Health1-00D460000015jRN",
             "LastName": "Morrison",
+            "MailingState": "TX",
             "Phone": "568-852-7450"
         }
     ]
