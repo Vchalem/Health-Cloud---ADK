@@ -20,7 +20,7 @@ sfdx force:user:permset:assign -n HealthCloudAdmin
 sfdx force:data:tree:import -p data/Plan1.json
 
 # Install the plugin to handle RecordType Ids, in case it wasn't already installed.
-sfdx plugins:install sfdx-wry-plugin
+#sfdx plugins:install sfdx-wry-plugin
 
 # Remove the post-processing output directory, in case there was one left from earlier run
 #rm -rf data/preprocess.out
