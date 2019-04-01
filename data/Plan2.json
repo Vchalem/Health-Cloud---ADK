@@ -15,6 +15,6 @@
         "sobject": "Case",
         "saveRefs": true,
         "resolveRefs": false,
-        "files": ["preprocess.out/Case.json"]
+        "files": ["preprocess.out/CarePlan.json"]
     }
 ]
