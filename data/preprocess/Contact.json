@@ -3,10 +3,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef1"
+                "referenceId": "ContactRoyGreen"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@RoyGreen",
+            "AccountId": "@RoyGreen",
             "Name": "Roy Green",
             "Birthdate": "1984-05-16",
             "CleanStatus": "Pending",
@@ -27,10 +27,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef2"
+                "referenceId": "ContactStevenHamilton"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@StevenHamilton",
+            "AccountId": "@StevenHamilton",
             "Name": "Steven Hamilton",
             "Birthdate": "1968-11-29",
             "CleanStatus": "Pending",
@@ -51,10 +51,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef3"
+                "referenceId": "ContactPhilipHamilton"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@PhilipHamilton",
+            "AccountId": "@PhilipHamilton",
             "Name": "Philip Hamilton",
             "Birthdate": "1960-05-04",
             "CleanStatus": "Pending",
@@ -75,10 +75,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef4"
+                "referenceId": "ContactJoniGreen"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@JoniGreen",
+            "AccountId": "@JoniGreen",
             "Name": "Joni Green",
             "Birthdate": "1982-04-27",
             "CleanStatus": "Pending",
@@ -99,10 +99,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef5"
+                "referenceId": "ContactRandelAbrams"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@RandelAbrams",
+            "AccountId": "@RandelAbrams",
             "Name": "Randel Abrams",
             "Birthdate": "1987-08-28",
             "CleanStatus": "Pending",
@@ -134,10 +134,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef6"
+                "referenceId": "ContactShawnaGreen"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@ShawnaGreen",
+            "AccountId": "@ShawnaGreen",
             "Name": "Shawna Green",
             "Birthdate": "1975-03-23",
             "CleanStatus": "Pending",
@@ -159,10 +159,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef7"
+                "referenceId": "ContactCharlesGreen"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@CharlesGreen",
+            "AccountId": "@CharlesGreen",
             "Name": "Charles Green",
             "Birthdate": "1946-05-27",
             "CleanStatus": "Pending",
@@ -205,10 +205,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef8"
+                "referenceId": "ContactJanetCampbell"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@JanetCampbell",
+            "AccountId": "@JanetCampbell",
             "Name": "Janet Campbell",
             "Birthdate": "1973-07-04",
             "CleanStatus": "Pending",
@@ -229,10 +229,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef9"
+                "referenceId": "ContactJaneHamilton"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@JaneHamilton",
+            "AccountId": "@JaneHamilton",
             "Name": "Jane Hamilton",
             "Birthdate": "1960-06-01",
             "CleanStatus": "Pending",
@@ -253,10 +253,10 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRef10"
+                "referenceId": "ContactDavidMorrison"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "Account": "@DavidMorrison",
+            "AccountId": "@DavidMorrison",
             "Name": "David Morrison",
             "Birthdate": "1973-01-20",
             "CleanStatus": "Pending",

@@ -8,13 +8,13 @@
     {
         "sobject": "Contact",
         "saveRefs": true,
-        "resolveRefs": false,
+        "resolveRefs": true,
         "files": ["preprocess.out/Contact.json"]
     },
     {
         "sobject": "Case",
-        "saveRefs": true,
-        "resolveRefs": false,
+        "saveRefs": false,
+        "resolveRefs": true,
         "files": ["preprocess.out/CarePlan.json"]
     }
 ]
