@@ -10,5 +10,11 @@
         "saveRefs": true,
         "resolveRefs": false,
         "files": ["preprocess.out/Contact.json"]
+    },
+    {
+        "sobject": "Case",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["preprocess.out/Case.json"]
     }
 ]
