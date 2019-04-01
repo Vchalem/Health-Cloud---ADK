@@ -6,12 +6,6 @@
         "files": ["preprocess.out/Account.json"]
     },
     {
-        "sobject": "Contact",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": ["preprocess.out/Contact.json"]
-    },
-    {
         "sobject": "Case",
         "saveRefs": false,
         "resolveRefs": true,
