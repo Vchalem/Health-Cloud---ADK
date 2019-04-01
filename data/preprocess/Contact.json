@@ -6,7 +6,7 @@
                 "referenceId": "ContactRef1"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef1",
+            "Account": "@RoyGreen",
             "Name": "Roy Green",
             "Birthdate": "1984-05-16",
             "CleanStatus": "Pending",
@@ -30,7 +30,7 @@
                 "referenceId": "ContactRef2"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef3",
+            "Account": "@StevenHamilton",
             "Name": "Steven Hamilton",
             "Birthdate": "1968-11-29",
             "CleanStatus": "Pending",
@@ -54,7 +54,7 @@
                 "referenceId": "ContactRef3"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef4",
+            "Account": "@PhilipHamilton",
             "Name": "Philip Hamilton",
             "Birthdate": "1960-05-04",
             "CleanStatus": "Pending",
@@ -78,7 +78,7 @@
                 "referenceId": "ContactRef4"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef6",
+            "Account": "@JoniGreen",
             "Name": "Joni Green",
             "Birthdate": "1982-04-27",
             "CleanStatus": "Pending",
@@ -102,7 +102,7 @@
                 "referenceId": "ContactRef5"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef5",
+            "Account": "@RandelAbrams",
             "Name": "Randel Abrams",
             "Birthdate": "1987-08-28",
             "CleanStatus": "Pending",
@@ -137,7 +137,7 @@
                 "referenceId": "ContactRef6"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef8",
+            "Account": "@ShawnaGreen",
             "Name": "Shawna Green",
             "Birthdate": "1975-03-23",
             "CleanStatus": "Pending",
@@ -162,7 +162,7 @@
                 "referenceId": "ContactRef7"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef9",
+            "Account": "@CharlesGreen",
             "Name": "Charles Green",
             "Birthdate": "1946-05-27",
             "CleanStatus": "Pending",
@@ -208,7 +208,7 @@
                 "referenceId": "ContactRef8"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef10",
+            "Account": "@JanetCampbell",
             "Name": "Janet Campbell",
             "Birthdate": "1973-07-04",
             "CleanStatus": "Pending",
@@ -232,7 +232,7 @@
                 "referenceId": "ContactRef9"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef11",
+            "Account": "@JaneHamilton",
             "Name": "Jane Hamilton",
             "Birthdate": "1960-06-01",
             "CleanStatus": "Pending",
@@ -256,7 +256,7 @@
                 "referenceId": "ContactRef10"
             },
             "RecordTypeId": "$R{RecordType.Contact.IndustriesIndividual}",
-            "AccountId": "@AccountRef7",
+            "Account": "@DavidMorrison",
             "Name": "David Morrison",
             "Birthdate": "1973-01-20",
             "CleanStatus": "Pending",
