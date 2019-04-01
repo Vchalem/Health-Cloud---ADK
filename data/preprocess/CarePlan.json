@@ -18,7 +18,6 @@
                 "referenceId": "CaseRef2"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ClosedDate": "2019-01-30T05:38:28.000+0000",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
@@ -41,7 +40,6 @@
                 "referenceId": "CaseRef3"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ClosedDate": "2019-01-30T05:38:28.000+0000",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
@@ -76,7 +74,6 @@
                 "referenceId": "CaseRef6"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
             "ContactMobile": "9478006454",
@@ -92,7 +89,6 @@
                 "referenceId": "CaseRef8"
             },
             "AccountId": "@JaneHamilton",
-            "ContactId": "@ContactJaneHamilton",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactPhone": "214-569-3267",
             "Description": "Dilated or retinal exam by an eye care professional (optometrist or ophthalmologist). # A note or letter prepared by an ophthalmologist, optometrist, PCP or other health care professional indicating that an ophthalmoscopic exam was completed by an eye care professional (optometrist or ophthalmologist), the date when the procedure was performed and the results. # A chart or photograph of retinal abnormalities indicating the date when the fundus photography was performed and evidence that an eye care professional (optometrist or ophthalmologist) reviewed the results. Alternatively, results may be read by a qualified reading center that operates under the direction of a medical director who is a retinal specialist. # Documentation of a negative retinal or dilated exam by an eye care professional (optometrist or ophthalmologist) in the year prior to the measurement year, where results indicate retinopathy was not present (e.g., documentation of normal findings for a dilated or retinal eye exam performed by an eye care professional -optometrist or ophthalmologist- meets criteria). # Documentation does not specifically have to state 'no diabetic retinopathy' to be considered negative for retinopathy; however, it must be clear that the patient had a dilated or retinal eye exam by an eye care professional (optometrist or ophthalmologist) and that retinopathy was not present. Notation limited to a statement that indicates 'diabetes without complications' does not meet criteria.",
@@ -111,7 +107,6 @@
                 "referenceId": "CaseRef9"
             },
             "AccountId": "@JaneHamilton",
-            "ContactId": "@ContactJaneHamilton",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactPhone": "214-569-3267",
             "Description": "# A urine test for albumin or protein. At a minimum, documentation must include a note indicating the date when urine test was performed, and the result or finding. Any of the following meet the criteria: # 24-hour urine for albumin or protein. # Timed urine for albumin or protein. # Spot urine for albumin or protein. # Urine for albumin/creatinine ratio. # 24-hour urine for total protein. # Random urine for protein/creatinine ratio. # Documentation of a visit to a nephrologist. # Documentation of a renal transplant. # Documentation of medical attention for any of the following (no restriction on provider type): # Diabetic nephropathy. # ESRD. # CRF. # Chronic kidney disease (CKD). # Renal insufficiency. # Proteinuria. # Albuminuria. # Renal dysfunction. # Acute renal failure (ARF). # Dialysis, hemodialysis or peritoneal. # Evidence of ACE inhibitor/ARB therapy. Documentation in the medical record must include, at minimum, a note indicating that the member received an ambulatory prescription for ACE inhibitors/ARBs in the measurement year.",
@@ -130,7 +125,6 @@
                 "referenceId": "CaseRef10"
             },
             "AccountId": "@JaneHamilton",
-            "ContactId": "@ContactJaneHamilton",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactPhone": "214-569-3267",
             "Description": "Individuals 18 years of age and older with the diagnosis of myocardial infarction (MI) who continued to take a beta-blocker for at least 6 months following their MI",
@@ -149,7 +143,6 @@
                 "referenceId": "CaseRef11"
             },
             "AccountId": "@JaneHamilton",
-            "ContactId": "@ContactJaneHamilton",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactPhone": "214-569-3267",
             "Description": "Note or immunization certificate with name of vaccine and date of administration. Three (3) doses should be given between the member's 9th and 13 birthdays.",
@@ -168,7 +161,6 @@
                 "referenceId": "CaseRef12"
             },
             "AccountId": "@JaneHamilton",
-            "ContactId": "@ContactJaneHamilton",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactPhone": "214-569-3267",
             "Description": "Individuals age 5-85 identified as having persistent asthma. Persistent asthma is determined by the following activities during the measurement year or the year prior to the measurement year: at least one encounter in an inpatient/emergency room setting with a principal diagnosis of asthma or four office visits with any diagnosis of asthma and at least two asthma medication dispensing eventsº or at least four asthma medication dispensing eventsº. Individuals who were only dispensed leukotriene modifiers or antibody inhibitors must also have at least one diagnosis of asthma in the same year.",
@@ -199,7 +191,6 @@
                 "referenceId": "CaseRef14"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
             "ContactMobile": "9478006454",
@@ -276,7 +267,6 @@
                 "referenceId": "CaseRef26"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
             "ContactMobile": "9478006454",
@@ -298,7 +288,6 @@
                 "referenceId": "CaseRef27"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
             "ContactMobile": "9478006454",
@@ -320,7 +309,6 @@
                 "referenceId": "CaseRef28"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ClosedDate": "2019-01-30T05:38:28.000+0000",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
@@ -343,7 +331,6 @@
                 "referenceId": "CaseRef29"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ClosedDate": "2019-01-30T05:38:28.000+0000",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
@@ -366,7 +353,6 @@
                 "referenceId": "CaseRef30"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ClosedDate": "2019-03-15T17:52:33.000+0000",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
@@ -389,7 +375,6 @@
                 "referenceId": "CaseRef31"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ClosedDate": "2019-01-30T05:38:28.000+0000",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
@@ -412,7 +397,6 @@
                 "referenceId": "CaseRef32"
             },
             "AccountId": "@CharlesGreen",
-            "ContactId": "@ContactCharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CareGap}",
             "ContactEmail": "cgreen.df18.sfdc@gmail.com",
             "ContactMobile": "9478006454",
