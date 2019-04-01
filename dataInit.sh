@@ -1,29 +1,16 @@
 #!/bin/bash
 
-# Execute the plan to load the first batch of data items
-sfdx force:data:tree:import -u HCADK2 -p data/Plan1.json
-
-# Install the plugin to handle RecordType Ids, in case it wasn't already installed.
-sfdx plugins:install sfdx-wry-plugin
+# Execute the plan to load the first batch of data items (uncomment if not already done)
+# sfdx force:data:tree:import -u HCADK2 -p data/Plan1.json
 
 # Remove the post-processing output directory, in case there was one left from earlier run
 rm -rf data/preprocess.out
 
 # Use the plug-in to convert the files with DeveloperName to SF ID's for this org
-sfdx wry:file:replace -u HCADK2 -i data/preprocess
-
-# Copy the Account-plan into the newly created directory with converted files
-cp data/Plan2.json data/preprocess.out/
+sfdx wry:file:replace -i data/preprocess
 
 # Load the newly converted files from the output directory
-sfdx force:data:tree:import -u HCADK2 -p data/preprocess.out/Plan2.json
+sfdx force:data:tree:import -p data/Plan2.json
 
-# Alternatively, load individual items, while working through them
-#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplate__c-plan.json
-#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateProblem__c-plan.json
-#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateGoal__c-plan.json
-#sfdx force:data:tree:import --plan data/HealthCloudGA__CarePlanTemplateTask__c-plan.json
-#sfdx force:data:tree:import --plan data/Account-plan.json
-
-sfdx force:apex:execute -f config/create-demo-data-setup.apex
+#sfdx force:apex:execute -f config/create-demo-data-setup.apex
 #sfdx force:apex:execute -f config/create-demo-data.apex
