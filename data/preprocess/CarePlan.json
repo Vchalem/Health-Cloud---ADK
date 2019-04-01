@@ -3,7 +3,19 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCarePlanRef1"
+                "referenceId": "JanetCampbell_CarePlan"
+            },
+            "AccountId": "@JanetCampbell",
+            "RecordTypeId": "$R{RecordType.Case.CarePlan}",
+            "IsEscalated": false,
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Janet Campbell's Care Plan"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreen_Post-DischargeCare"
             },
             "AccountId": "@CharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -15,7 +27,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCarePlanRef2"
+                "referenceId": "CharlesGreen_DiabetesCarePlan"
             },
             "AccountId": "@CharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -190,7 +202,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "ShawnaGreemCarePlanRef1"
+                "referenceId": "ShawnaGreen_CarePlan"
             },
             "AccountId": "@ShawnaGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -202,7 +214,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "JoniGreenCarePlanRef1"
+                "referenceId": "JoniGreen_CarePlan"
             },
             "AccountId": "@JoniGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -214,7 +226,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "RoyGreenCarePlanRef1"
+                "referenceId": "RoyGreen_CarePlan"
             },
             "AccountId": "@RoyGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -226,19 +238,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "JaneHamiltonCarePlanRef1"
-            },
-            "AccountId": "@JaneHamilton",
-            "RecordTypeId": "$R{RecordType.Case.CarePlan}",
-            "IsEscalated": false,
-            "Priority": "Medium",
-            "Status": "New",
-            "Subject": "Janet Campbell's Care Plan"
-        },
-        {
-            "attributes": {
-                "type": "Case",
-                "referenceId": "JaneHamiltonCarePlanRef2"
+                "referenceId": "JaneHamilton_CarePlan"
             },
             "AccountId": "@JaneHamilton",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -335,7 +335,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "PhilipHamiltonCarePlanRef1"
+                "referenceId": "PhilipHamilton_CarePlan"
             },
             "AccountId": "@PhilipHamilton",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -347,7 +347,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "StevenHamiltonCarePlanRef1"
+                "referenceId": "StevenHamilton_CarePlan"
             },
             "AccountId": "@StevenHamilton",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
@@ -359,7 +359,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "DavidMorrisonCarePlanRef1"
+                "referenceId": "DavidMorrison_CarePlan"
             },
             "AccountId": "@DavidMorrison",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",
