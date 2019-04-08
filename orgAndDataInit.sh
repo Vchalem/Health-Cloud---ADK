@@ -34,9 +34,9 @@ sfdx force:data:tree:import -p data/Plan1.json
 rm -rf data/preprocess.out
 
 # Use the plug-in to convert the files with DeveloperName to SF ID's for this org
-#sfdx wry:file:replace -i data/preprocess
+sfdx wry:file:replace -i data/preprocess
 
 # Load the newly converted files from the output directory
-#sfdx force:data:tree:import -p data/Plan2.json
+sfdx force:data:tree:import -p data/Plan2.json
 
 sfdx force:org:open
