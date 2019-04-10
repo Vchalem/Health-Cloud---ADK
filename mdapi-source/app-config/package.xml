@@ -27,6 +27,5 @@
     <name>CustomTab</name>
     <members>Patient_Page</members>
   </types>
-  <version>42.0</version>
-  <fullName>My Managed Package</fullName>
+  <version>45.0</version>
 </Package>
