@@ -58,10 +58,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>CreateCustomizeReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>CreateTopics</name>
     </userPermissions>
     <userPermissions>
@@ -118,10 +114,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManageCssUsers</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ManageEncryptionKeys</name>
     </userPermissions>
     <userPermissions>
@@ -163,10 +155,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewEventLogFiles</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewGlobalHeader</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

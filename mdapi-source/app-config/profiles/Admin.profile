@@ -92,14 +92,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ChatterEditOwnPost</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ChatterEditOwnRecordPost</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ChatterFileLink</name>
     </userPermissions>
     <userPermissions>
@@ -132,19 +124,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>CreateCustomizeDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>CreateCustomizeFilters</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateCustomizeReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateDashboardFolders</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -152,15 +132,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>CreateReportFolders</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>CreateTopics</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>CreateWorkBadgeDefinition</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -216,14 +188,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>EditMyDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>EditMyReports</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>EditOppLineItemUnitPrice</name>
     </userPermissions>
     <userPermissions>
@@ -269,10 +233,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ExportReport</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>FieldServiceAccess</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -356,10 +316,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManageDashbdsInPubFolders</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ManageDataCategories</name>
     </userPermissions>
     <userPermissions>
@@ -424,10 +380,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>ManagePartners</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>ManagePasswordPolicies</name>
     </userPermissions>
     <userPermissions>
@@ -441,10 +393,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ManageRemoteAccess</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ManageReportsInPubFolders</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -532,10 +480,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SendExternalEmailAvailable</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>SendSitRequests</name>
     </userPermissions>
     <userPermissions>
@@ -560,19 +504,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
-        <name>SubscribeDashboardToOtherUsers</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
         <name>SubscribeReportRolesGrps</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>SubscribeReportToOtherUsers</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>SubscribeReportsRunAsUser</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -637,14 +569,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewMyTeamsDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewPublicDashboards</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewPublicReports</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>

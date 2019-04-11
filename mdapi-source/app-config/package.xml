@@ -20,10 +20,6 @@
     <members>Custom%3A Support Profile</members>
   </types>
   <types>
-    <name>Settings</name>
-    <members>OrgPreference</members>
-  </types>
-  <types>
     <name>CustomTab</name>
     <members>Patient_Page</members>
   </types>

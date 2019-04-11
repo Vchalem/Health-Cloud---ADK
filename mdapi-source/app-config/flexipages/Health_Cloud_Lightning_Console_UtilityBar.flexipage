@@ -123,11 +123,11 @@
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>entityName</name>
-                <value>AccountBrand</value>
+                <value>Account</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>filterName</name>
-                <value>All_Account_Brands</value>
+                <value>AllAccounts</value>
             </componentInstanceProperties>
             <componentInstanceProperties>
                 <name>height</name>
