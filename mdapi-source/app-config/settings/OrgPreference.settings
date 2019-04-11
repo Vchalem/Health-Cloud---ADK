@@ -21,10 +21,6 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>NetworksEnabled</settingName>
-        <settingValue>true</settingValue>
-    </preferences>
-    <preferences>
         <settingName>AnalyticsSharingEnable</settingName>
         <settingValue>true</settingValue>
     </preferences>
@@ -101,10 +97,6 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>CompileOnDeploy</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
         <settingName>ReportDataCaptureEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
@@ -174,10 +166,6 @@
     </preferences>
     <preferences>
         <settingName>ApexApprovalLockUnlock</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>PRMAccRelPref</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>

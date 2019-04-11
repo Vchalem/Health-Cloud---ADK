@@ -14,7 +14,7 @@ sfdx force:package:install --package 04t1C000000AoPO -w 20
 
 # Deploy the metadata packages
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
-sfdx force:mdapi:deploy --deploydir mdapi-source/data-config
+# sfdx force:mdapi:deploy --deploydir mdapi-source/data-config
 sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
 
 # Deploy the source code (will only work in scratch orgs)
@@ -25,7 +25,7 @@ sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
 
 # Perform any pre-steps, prior to loading data
-sfdx force:apex:execute -f config/create-demo-data-setup.apex
+# sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 # Execute the plan to load the first batch of data items
 sfdx force:data:tree:import -p data/Plan1.json

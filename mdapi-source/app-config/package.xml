@@ -20,8 +20,13 @@
     <members>Custom%3A Support Profile</members>
   </types>
   <types>
+    <members>*</members>
+    <name>Settings</name>
+  </types>
+  <types>
     <name>CustomTab</name>
     <members>Patient_Page</members>
   </types>
-  <version>45.0</version>
+  <version>42.0</version>
+  <fullName>My Managed Package</fullName>
 </Package>
