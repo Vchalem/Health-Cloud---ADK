@@ -27,9 +27,6 @@ sfdx force:user:permset:assign -n HealthCloudAdmin
 # Perform any pre-steps, prior to loading data
 # sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
-# Execute the plan to load the first batch of data items
-sfdx force:data:tree:import -p data/Plan1.json
-
 # Install the plugin to handle RecordType Ids, in case it wasn't already installed.
 #sfdx plugins:install sfdx-wry-plugin
 
@@ -39,5 +36,5 @@ rm -rf data/preprocess.out
 # Use the plug-in to convert the files with DeveloperName to SF ID's for this org
 sfdx wry:file:replace -i data/preprocess
 
-# Load the newly converted files from the output directory
-sfdx force:data:tree:import -p data/Plan2.json
+# Load the data. including the newly converted files from the output directory
+sfdx force:data:tree:import -p data/Plan.json
