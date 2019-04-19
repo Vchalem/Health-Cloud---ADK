@@ -15,7 +15,7 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreen_Post-DischargeCare"
+                "referenceId": "CharlesGreen_PostDischargeCare"
             },
             "AccountId": "@CharlesGreen",
             "RecordTypeId": "$R{RecordType.Case.CarePlan}",

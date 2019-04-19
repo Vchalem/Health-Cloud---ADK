@@ -31,13 +31,13 @@
     },
     {
         "sobject": "Case",
-        "saveRefs": false,
+        "saveRefs": true,
         "resolveRefs": true,
         "files": ["preprocess.out/CarePlan.json"]
     },
     {
         "sobject": "HealthCloudGA__CarePlanProblem__c",
-        "saveRefs": false,
+        "saveRefs": true,
         "resolveRefs": true,
         "files": ["HealthCloudGA__CarePlanProblem__c.json"]
     }

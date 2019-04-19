@@ -5,7 +5,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "PhilipHamilton_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@PhilipHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@PhilipHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -15,7 +15,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "PhilipHamilton_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@PhilipHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@PhilipHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -25,7 +25,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "PhilipHamilton_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@PhilipHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@PhilipHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -35,7 +35,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JoniGreen_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@JoniGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JoniGreen_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -45,7 +45,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JoniGreen_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@JoniGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JoniGreen_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -55,7 +55,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JoniGreen_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@JoniGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JoniGreen_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -63,63 +63,9 @@
         {
             "attributes": {
                 "type": "HealthCloudGA__CarePlanProblem__c",
-                "referenceId": "CharlesGreen_LacksKnowledgeOfCondition"
-            },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_Post-DischargeCare",
-            "HealthCloudGA__Description__c": "Patient needs to understand his condition to better prevent future medical problems pertaining to this procedure.",
-            "HealthCloudGA__Priority__c": "Medium",
-            "Name": "Lacks Knowledge of Condition",
-            "SupportedDemoRecord__c": "PostAcuteDischarge"
-        },
-        {
-            "attributes": {
-                "type": "HealthCloudGA__CarePlanProblem__c",
-                "referenceId": "CharlesGreen_LacksEducationForSelfCare"
-            },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_Post-DischargeCare",
-            "HealthCloudGA__Description__c": "Patient is ill-equipped to care for himself post-discharge, and needs to be educated.",
-            "HealthCloudGA__Priority__c": "Medium",
-            "Name": "Lacks Education for Self Care",
-            "SupportedDemoRecord__c": "PostAcuteDischarge"
-        },
-        {
-            "attributes": {
-                "type": "HealthCloudGA__CarePlanProblem__c",
-                "referenceId": "CharlesGreen_DailyWoundCare"
-            },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_Post-DischargeCare",
-            "HealthCloudGA__Priority__c": "High",
-            "Name": "Daily Wound Care",
-            "SupportedDemoRecord__c": "PostAcuteDischarge"
-        },
-        {
-            "attributes": {
-                "type": "HealthCloudGA__CarePlanProblem__c",
-                "referenceId": "CharlesGreen_PainControlMedicationNeeded"
-            },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_Post-DischargeCare",
-            "HealthCloudGA__Description__c": "Patient will need pain meds. Due to his elevated age, his pain med use will need to be monitored closely.",
-            "HealthCloudGA__Priority__c": "Medium",
-            "Name": "Pain Control Medication Needed",
-            "SupportedDemoRecord__c": "PostAcuteDischarge"
-        },
-        {
-            "attributes": {
-                "type": "HealthCloudGA__CarePlanProblem__c",
-                "referenceId": "CharlesGreen_NeedsHipRehabilitation"
-            },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_Post-DischargeCare",
-            "HealthCloudGA__Description__c": "Patient was recently discharged from a Total Hip Replacement surgery. He will require rehabilitation.",
-            "HealthCloudGA__Priority__c": "High",
-            "Name": "Needs Hip Rehabilitation",
-            "SupportedDemoRecord__c": "PostAcuteDischarge"
-        },
-        {
-            "attributes": {
-                "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "ShawnaGreen_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@ShawnaGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@ShawnaGreen_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -129,7 +75,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "ShawnaGreen_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@ShawnaGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@ShawnaGreen_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -139,7 +85,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "ShawnaGreen_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@ShawnaGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@ShawnaGreen_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -149,7 +95,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "CharlesGreen_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -159,7 +105,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "CharlesGreen_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -169,7 +115,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "CharlesGreen_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -179,7 +125,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "DavidMorison_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@DavidMorrison_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@DavidMorrison_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -189,7 +135,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "DavidMorrison_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@DavidMorrison_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@DavidMorrison_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -199,7 +145,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "DavidMorrison_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@DavidMorrison_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@DavidMorrison_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -209,7 +155,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JanetCampbell_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@JanetCampbell_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JanetCampbell_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -219,7 +165,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JanetCampbell_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@JanetCampbell_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JanetCampbell_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -229,7 +175,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JanetCampbell_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@JanetCampbell_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JanetCampbell_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -239,7 +185,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JaneHamilton_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@JaneHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JaneHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -249,7 +195,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JaneHamilton_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@JaneHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JaneHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -259,7 +205,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "JaneHamilton_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@JaneHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@JaneHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -269,7 +215,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "RoyGreen_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@RoyGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@RoyGreen_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -279,7 +225,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "RoyGreen_ControlGlucoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@RoyGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@RoyGreen_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -289,7 +235,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "RoyGreen_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@RoyGreen_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@RoyGreen_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
@@ -299,7 +245,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "StevenHamilton_BasicDiabetesSelfCareNeeded"
             },
-            "HealthCloudGA__CarePlan__r": "@StevenHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@StevenHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Basic Diabetes self-care needed"
@@ -309,7 +255,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "StevenHamilton_ControlGlocoseLevels"
             },
-            "HealthCloudGA__CarePlan__r": "@StevenHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@StevenHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Control Glucose Levels",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Control Glucose Levels"
@@ -319,7 +265,7 @@
                 "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "StevenHamilton_HealthyLifestyle"
             },
-            "HealthCloudGA__CarePlan__r": "@StevenHamilton_CarePlan",
+            "HealthCloudGA__CarePlan__c": "@StevenHamilton_CarePlan",
             "HealthCloudGA__Description__c": "Healthy Lifestyle",
             "HealthCloudGA__Priority__c": "Medium",
             "Name": "Healthy Lifestyle"
