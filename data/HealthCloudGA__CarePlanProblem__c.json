@@ -63,6 +63,55 @@
         {
             "attributes": {
                 "type": "HealthCloudGA__CarePlanProblem__c",
+                "referenceId": "CharlesGreen_LacksKnowledgeOfCondition"
+            },
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__Description__c": "Patient needs to understand his condition to better prevent future medical problems pertaining to this procedure.",
+            "HealthCloudGA__Priority__c": "Medium",
+            "Name": "Lacks Knowledge of Condition"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__CarePlanProblem__c",
+                "referenceId": "CharlesGreen_LacksEducationForSelfCare"
+            },
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__Description__c": "Patient is ill-equipped to care for himself post-discharge, and needs to be educated.",
+            "HealthCloudGA__Priority__c": "Medium",
+            "Name": "Lacks Education for Self Care"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__CarePlanProblem__c",
+                "referenceId": "CharlesGreen_DailyWoundCare"
+            },
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__Priority__c": "High",
+            "Name": "Daily Wound Care"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__CarePlanProblem__c",
+                "referenceId": "CharlesGreen_PainControlMedicationNeeded"
+            },
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__Description__c": "Patient will need pain meds. Due to his elevated age, his pain med use will need to be monitored closely.",
+            "HealthCloudGA__Priority__c": "Medium",
+            "Name": "Pain Control Medication Needed"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__CarePlanProblem__c",
+                "referenceId": "CharlesGreen_NeedsHipRehabilitation"
+            },
+            "HealthCloudGA__CarePlan__c": "@CharlesGreen_DiabetesCarePlan",
+            "HealthCloudGA__Description__c": "Patient was recently discharged from a Total Hip Replacement surgery. He will require rehabilitation.",
+            "HealthCloudGA__Priority__c": "High",
+            "Name": "Needs Hip Rehabilitation"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__CarePlanProblem__c",
                 "referenceId": "ShawnaGreen_BasicDiabetesSelfCareNeeded"
             },
             "HealthCloudGA__CarePlan__c": "@ShawnaGreen_CarePlan",
