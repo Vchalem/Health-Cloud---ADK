@@ -3,6 +3,12 @@
 # NOTE: This is intended to be run to load data into an org that was already initialized using orgInit.sh or other method
 #
 
+# Perform any pre-steps, prior to loading data
+# sfdx force:apex:execute -f config/create-demo-data-setup.apex
+
+# Install the plugin to handle RecordType Ids, in case it wasn't already installed.
+#sfdx plugins:install sfdx-wry-plugin
+
 # Remove the post-processing output directory, in case there was one left from earlier run
 rm -rf data/preprocess.out
 
