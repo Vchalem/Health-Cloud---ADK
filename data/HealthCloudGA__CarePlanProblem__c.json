@@ -172,7 +172,7 @@
         {
             "attributes": {
                 "type": "HealthCloudGA__CarePlanProblem__c",
-                "referenceId": "DavidMorison_BasicDiabetesSelfCareNeeded"
+                "referenceId": "DavidMorrison_BasicDiabetesSelfCareNeeded"
             },
             "HealthCloudGA__CarePlan__c": "@DavidMorrison_CarePlan",
             "HealthCloudGA__Description__c": "Basic Diabetes self-care needed",
