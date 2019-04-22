@@ -1,7 +1,7 @@
 #!/bin/bash
-
-# Execute the plan to load the first batch of data items (uncomment if not already done)
-# sfdx force:data:tree:import -u HCADK2 -p data/Plan1.json
+#
+# NOTE: This is intended to be run to load data into an org that was already initialized using orgInit.sh or other method
+#
 
 # Remove the post-processing output directory, in case there was one left from earlier run
 rm -rf data/preprocess.out
@@ -10,4 +10,4 @@ rm -rf data/preprocess.out
 sfdx wry:file:replace -i data/preprocess
 
 # Load the newly converted files from the output directory
-sfdx force:data:tree:import -p data/Plan2.json
+sfdx force:data:tree:import -p data/Plan.json

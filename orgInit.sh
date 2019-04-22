@@ -20,7 +20,7 @@ sfdx force:user:permset:assign -n HealthCloudAdmin
 # sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 # Execute the plan to load the first batch of data items
-sfdx force:data:tree:import -p data/Plan1.json
+# sfdx force:data:tree:import -p data/Plan1.json
 
 # The final data loading steps are commented out, since they fail on Heroku
 # If running locally, you can uncomment this line
