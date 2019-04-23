@@ -17,7 +17,8 @@ sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
 
 # Perform any pre-steps, prior to loading data
-# sfdx force:apex:execute -f config/create-demo-data-setup.apex
+#(enable person accounts & user pwd reset)
+sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 # Execute the plan to load the first batch of data items
 # sfdx force:data:tree:import -p data/Plan1.json

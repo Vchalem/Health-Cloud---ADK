@@ -6,14 +6,14 @@
  * @public
  */
 //─────────────────────────────────────────────────────────────────────────────────────────────────┘
-public class HCDemoPack_DataSetup {
+public class HcDemoPack_DataSetup {
 
     public static void preSetupForDemoData() {
         // Pre-setup: Enable Person Account
         // Separating it because Custom Setting doesn't show in records below if inserted in same transaction
         // - Add record in FinServ__UsePersonAccount__c  Custom Setting
         // - Custom Metadata type will be uploaded with other metadata
-        // - Required otherwise PersonAccount records will not be marked as "Individual" (in FinServ__IndividualType__c) and can't be used in Financial Goal
+        // - Required otherwise PersonAccount records will not be marked as "Individual" 
         
         
         enablePersonAccountRecordType();
