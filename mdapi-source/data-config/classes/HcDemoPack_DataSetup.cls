@@ -6,7 +6,7 @@
  * @public
  */
 //─────────────────────────────────────────────────────────────────────────────────────────────────┘
-public class FscDemoPack_DataSetup {
+public class HcDemoPack_DataSetup {
 
   // Get the RecordType IDs for this org.
   //public static Map<String,RecordType> recordTypes = getFscRecordTypeIds();
@@ -32,9 +32,6 @@ public class FscDemoPack_DataSetup {
             //CustomSettingName__c usPA = SELECT Name, Enable from CustomSettingName__c WHERE Name-'Use Person Account';
 
 
-            HealthCloudGA__UsePersonAccount__c usePersonAccount = new HealthCloudGA__UsePersonAccount__c();
-            usePersonAccount.Name = 'Use Person Account';
-            usePersonAccount.HealthCloudGA__Enable__c = true;
             HealthCloudGA__UsePersonAccount__c upa = [SELECT Id, Name FROM HealthCloudGA__UsePersonAccount__c WHERE Name ='Use Person Account'];
             upa.HealthCloudGA__Enable__c = true;
             update upa;
