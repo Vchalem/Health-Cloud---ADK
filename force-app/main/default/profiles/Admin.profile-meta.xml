@@ -10,21 +10,15 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>HcDemoPack_DataSetup</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <tabVisibilities>
         <tab>Patient_Page</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
-    <recordTypeVisibilities>
-        <default>true</default>
-        <recordType>Case.HealthCloudGA__CarePlan</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities> 
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Case.HealthCloudGA__CareGap</recordType>
-        <visible>true</visible>
-    </recordTypeVisibilities> 
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
@@ -658,4 +652,30 @@
         <enabled>true</enabled>
         <name>WorkCalibrationUser</name>
     </userPermissions>
+    
+     <layoutAssignments>
+        <layout>Contact-HealthCloudGA__Patient Layout</layout>
+        <recordType>Contact.HealthCloudGA__IndustriesIndividual</recordType>
+    </layoutAssignments>
+
+    <layoutAssignments>
+        <layout>Case-HealthCloudGA__CarePlan Layout</layout>
+        <recordType>Case.HealthCloudGA__CarePlan</recordType>
+    </layoutAssignments>
+
+    <layoutAssignments>
+        <layout>Account-HealthCloudGA__Patient Layout</layout>
+        <recordType>Account.HealthCloudGA__IndustriesIndividual</recordType>
+    </layoutAssignments>
+
+
+    <layoutAssignments>
+        <layout>Lead-HealthCloudGA__Patient Layout</layout>
+        <recordType>Lead.HealthCloudGA__Patient</recordType>
+    </layoutAssignments>
+
+    <layoutAssignments>
+        <layout>Task-HealthCloudGA__Health Task Layout</layout>
+        <recordType>Task.HealthCloudGA__CarePlanTask</recordType>
+    </layoutAssignments>
 </Profile>
