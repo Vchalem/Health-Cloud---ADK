@@ -5,8 +5,9 @@
     "description": "Contains a baseline demo of Health Cloud app.",
     "features": [
       "Communities",
-      "ContactsToMultipleAccounts"
-    ],
+      "ContactsToMultipleAccounts",
+      "PersonAccounts"
+  ],
     "orgPreferences": {
       "enabled": [
         "S1DesktopEnabled",
