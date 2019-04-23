@@ -562,4 +562,10 @@
         <enabled>true</enabled>
         <name>WorkCalibrationUser</name>
     </userPermissions>
+
+    <layoutAssignments>
+        <layout>Contact-HealthCloudGA__Patient Layout</layout>
+        <recordType>Contact.HealthCloudGA__IndustriesIndividual</recordType>
+    </layoutAssignments>
+    
 </Profile>
