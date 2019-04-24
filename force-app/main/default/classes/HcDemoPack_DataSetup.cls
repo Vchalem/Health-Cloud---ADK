@@ -1,6 +1,6 @@
 //─────────────────────────────────────────────────────────────────────────────────────────────────┐
 /**
- * @class       FscDemoPack_DataSetup
+ * @class       HcDemoPack_DataSetup
  * @description Implements a collection of static methods that can be used to create demo data.
  * @version     1.0.0
  * @public
@@ -8,8 +8,6 @@
 //─────────────────────────────────────────────────────────────────────────────────────────────────┘
 public class HcDemoPack_DataSetup {
 
-  // Get the RecordType IDs for this org.
-  //public static Map<String,RecordType> recordTypes = getFscRecordTypeIds();
 
     public static void preSetupForDemoData() {
         // Pre-setup: ENable Person Account
