@@ -10,7 +10,7 @@ sfdx force:package:install --package 04t1C000000AoPO -w 20
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
 sfdx force:mdapi:deploy --deploydir mdapi-source/data-config
 sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
-sfdx force:source:push 
+sfdx force:source:push -f
 
 # Assign the permissions
 sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
