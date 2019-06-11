@@ -4,7 +4,7 @@
 sfdx force:org:create -f config/project-scratch-def.json -a HCADK --setdefaultusername -d 1
 
 # Install the package
-sfdx force:package:install --package 04t1C000000AoPO -w 20 
+sfdx force:package:install --package 04t1C000000ApHp -w 20 
 
 # Deploy the code
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
