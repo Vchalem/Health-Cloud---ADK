@@ -1,7 +1,7 @@
 {
     "orgName": "HC ADK",
     "country": "US",
-    "edition": "Partner Enterprise",
+    "edition": "Partner Developer",
     "description": "Contains a baseline demo of Health Cloud app.",
     "features": [
       "Communities",
