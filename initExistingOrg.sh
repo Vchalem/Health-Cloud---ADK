@@ -11,6 +11,8 @@ fi
 
 # Install the package
 sfdx force:package:install --package 04t1C000000AoPO -w 20 
+# 216: --package 04t1C000000AoPO
+# 218: --package 04t1C000000ApHp
 
 # Deploy the metadata packages
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config

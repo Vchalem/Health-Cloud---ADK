@@ -1,0 +1,14 @@
+{
+    "Username": "melsmith.svi0xydmsnu2@myscratch.com",
+    "FirstName": "Melinda",
+    "LastName": "Smith",
+    "Email": "msmith@example.com",
+    "Alias": "melsmith",
+    "TimeZoneSidKey": "America/Los_Angeles",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "Health Cloud Care Coordinator",
+    "permsets": ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"],
+    "generatePassword": true
+}
