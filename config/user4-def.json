@@ -1,0 +1,14 @@
+{
+    "Username": "sagent123800.svi0xydmsnu2@myscratch.com",
+    "FirstName": "Sally",
+    "LastName": "Agent",
+    "Email": "sagent@example.com",
+    "Alias": "sagent",
+    "Title":"Contact Center",
+    "TimeZoneSidKey": "America/Los_Angeles",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "System Administrator",
+    "permsets": ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
+}

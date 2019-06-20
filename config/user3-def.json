@@ -1,0 +1,14 @@
+{
+    "Username": "pporter123880.svi0xydmsnu2@myscratch.com",
+    "FirstName": "Peter",
+    "LastName": "Porter",
+    "Email": "pporter@example.com",
+    "Alias": "pporter",
+    "TimeZoneSidKey": "America/Los_Angeles",
+    "Title": "Physical Liasion",
+    "LocaleSidKey": "en_US",
+    "EmailEncodingKey": "UTF-8",
+    "LanguageLocaleKey": "en_US",
+    "profileName": "Standard User",
+    "permsets": ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
+}
