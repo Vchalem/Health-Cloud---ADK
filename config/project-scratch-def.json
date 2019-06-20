@@ -6,7 +6,8 @@
     "features": [
       "Communities",
       "ContactsToMultipleAccounts",
-      "PersonAccounts"
+      "PersonAccounts",
+      "AnalyticsAdminPerms"
   ],
     "orgPreferences": {
       "enabled": [
