@@ -8,18 +8,64 @@
 //─────────────────────────────────────────────────────────────────────────────────────────────────┘
 public class HcDemoPack_DataSetup {
 
+//create users 
+    public static void createMel() {
+      //query for profile
+      Profile profileId = [SELECT Id FROM Profile WHERE Name = 'Health Cloud Care Coordinator' LIMIT 1];
+      
+      //generate random username
+      Integer randomInt = Integer.valueOf(math.rint(math.random()*1000000));
 
-    public static void preSetupForDemoData() {
-        // Pre-setup: ENable Person Account
-        // Separating it because Custom Setting doesn't show in records below if inserted in same transaction
-        // - Add record in FinServ__UsePersonAccount__c  Custom Setting
-        // - CUstom Metadata type will be uploaded with other metadata
-        // - Required otherwise PersonAccount records will not be marked as "Individual" (in FinServ__IndividualType__c) and can't be used in Financial Goal
-        
-        
-        enablePersonAccountRecordType();
+      User usr = new User();
+      usr.LastName = 'Smith';
+      usr.FirstName='Melinda';
+      usr.Alias='melsmith';
+      usr.Email = 'msmith@example.com';
+      usr.Username='melindasvi0xy' + randomInt + '@myscratch.com.org';
+      usr.ProfileId = profileId.id;
+      usr.TimeZoneSidKey = 'GMT';
+      usr.LanguageLocaleKey = 'en_US';
+      usr.LocaleSidKey = 'en_US';
+      usr.EmailEncodingKey = 'UTF-8';
+
+      insert usr; 
+
+      //permsets: ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
+
    
     }
+    public static void createCharles() {
+      //query for profile -- need his actual profile..
+      Profile profileId = [SELECT Id FROM Profile WHERE Name = 'Health Cloud Care Coordinator' LIMIT 1];
+      
+      //generate random username
+      Integer randomInt = Integer.valueOf(math.rint(math.random()*1000000));
+
+      User usr = new User();
+      usr.LastName = 'Charles';
+      usr.FirstName='Green';
+      usr.Alias='cgreen';
+      usr.Email = 'cgreen@example.com';
+      usr.Username='cgreenvi0xy' + randomInt + '@myscratch.com.org';
+      usr.ProfileId = profileId.id;
+      usr.TimeZoneSidKey = 'GMT';
+      usr.LanguageLocaleKey = 'en_US';
+      usr.LocaleSidKey = 'en_US';
+      usr.EmailEncodingKey = 'UTF-8';
+
+      insert usr; 
+
+      //permsets: ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
+
+   
+    }
+
+    public static void createPeter(){
+
+    } 
+    public static void createSally(){
+        
+    } 
 
     public static void enablePersonAccountRecordType(){
         //Enable Person Account in https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_enable_person_account.htm
@@ -38,5 +84,7 @@ public class HcDemoPack_DataSetup {
         }
         
     }
+
+
   
 }
