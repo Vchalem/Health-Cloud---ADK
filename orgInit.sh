@@ -28,7 +28,7 @@ sfdx force:user:permset:assign -n HealthCloudAdmin
 #sfdx force:user:create --definitionfile config/user4-def.json
 
 # Perform any pre-steps, prior to loading data
-#(enable person accounts & user pwd reset)
+#will set up the users..
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 # Execute the plan to load the first batch of data items
