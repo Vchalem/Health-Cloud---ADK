@@ -26,5 +26,7 @@ sfdx force:source:push -f
 # Assign the permissions
 sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
+sfdx force:user:permset:assign -n HealthCloudSocialDeterminants
+sfdx force:user:permset:assign -n HealthCloudUtilizationManagement
 
 ./dataInit.sh
