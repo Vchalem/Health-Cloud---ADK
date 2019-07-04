@@ -4,6 +4,7 @@
     "edition": "Enterprise",
     "description": "Contains a baseline demo of Health Cloud app.",
     "features": [
+      "HealthCloudUser",
       "Communities",
       "ContactsToMultipleAccounts",
       "PersonAccounts",
