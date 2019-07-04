@@ -34,7 +34,7 @@ public class HcDemoPack_DataSetup {
 
    
     }
-    public static void createCharles() {
+    public static void createJohn() {
       //query for profile -- need his actual profile..
       Profile profileId = [SELECT Id FROM Profile WHERE Name = 'Health Cloud Care Coordinator' LIMIT 1];
       
@@ -42,11 +42,36 @@ public class HcDemoPack_DataSetup {
       Integer randomInt = Integer.valueOf(math.rint(math.random()*1000000));
 
       User usr = new User();
-      usr.LastName = 'Charles';
-      usr.FirstName='Green';
-      usr.Alias='cgreen';
-      usr.Email = 'cgreen@example.com';
-      usr.Username='cgreenvi0xy' + randomInt + '@myscratch.com.org';
+      usr.LastName = 'Bosworth';
+      usr.FirstName='John';
+      usr.Alias='jbos';
+      usr.Email = 'jbosworth@example.com';
+      usr.Username='jbosworth' + randomInt + '@myscratch.com.org';
+      usr.ProfileId = profileId.id;
+      usr.TimeZoneSidKey = 'GMT';
+      usr.LanguageLocaleKey = 'en_US';
+      usr.LocaleSidKey = 'en_US';
+      usr.EmailEncodingKey = 'UTF-8';
+
+      insert usr; 
+
+      //permsets: ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
+   
+    }
+
+    public static void createSally() {
+      //query for profile -- need his actual profile..
+      Profile profileId = [SELECT Id FROM Profile WHERE Name = 'Patient Engagement (Provider)' LIMIT 1];
+      
+      //generate random username
+      Integer randomInt = Integer.valueOf(math.rint(math.random()*1000000));
+
+      User usr = new User();
+      usr.LastName = 'Agent';
+      usr.FirstName='Sally';
+      usr.Alias='sagent';
+      usr.Email = 'sagent@example.com';
+      usr.Username='sagent' + randomInt + '@myscratch.com.org';
       usr.ProfileId = profileId.id;
       usr.TimeZoneSidKey = 'GMT';
       usr.LanguageLocaleKey = 'en_US';
@@ -60,12 +85,33 @@ public class HcDemoPack_DataSetup {
    
     }
 
-    public static void createPeter(){
+    public static void createPeter() {
+      //query for profile -- need his actual profile..
+      Profile profileId = [SELECT Id FROM Profile WHERE Name = 'Physician Referral Management (Provider)' LIMIT 1];
+      
+      //generate random username
+      Integer randomInt = Integer.valueOf(math.rint(math.random()*1000000));
 
-    } 
-    public static void createSally(){
-        
-    } 
+      User usr = new User();
+      usr.LastName = 'Porter';
+      usr.FirstName='Peter';
+      usr.Alias='ppet';
+      usr.Email = 'pporter@example.com';
+      usr.Username='pporter' + randomInt + '@myscratch.com.org';
+      usr.ProfileId = profileId.id;
+      usr.TimeZoneSidKey = 'GMT';
+      usr.LanguageLocaleKey = 'en_US';
+      usr.LocaleSidKey = 'en_US';
+      usr.EmailEncodingKey = 'UTF-8';
+
+      insert usr; 
+
+      //permsets: ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
+
+   
+    }
+
+    
 
     public static void enablePersonAccountRecordType(){
         //Enable Person Account in https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_enable_person_account.htm
