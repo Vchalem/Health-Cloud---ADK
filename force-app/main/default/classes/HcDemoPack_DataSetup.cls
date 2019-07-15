@@ -114,7 +114,6 @@ public class HcDemoPack_DataSetup {
       insert usr; 
 
       //permsets: ["HealthCloudPermissionSetLicense", "HealthCloudAdmin"]
-
    
     }
 
