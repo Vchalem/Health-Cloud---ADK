@@ -8,9 +8,10 @@ User u = [select id,name, LastName, FirstName, username, ProfileId,  alias, emai
 
 System.resetPassword (u.Id, true);
 
+HcDemoPack_DataSetup.deactiveAgent();
 HcDemoPack_DataSetup.createMel();
 HcDemoPack_DataSetup.createJohn();
 HcDemoPack_DataSetup.createSally();
-//HcDemoPack_DataSetup.createPeter();
+HcDemoPack_DataSetup.createPeter();
 
 
