@@ -17,6 +17,5 @@ sfdx wry:file:replace -i data/preprocess
 
 # Load the newly converted files from the output directory
 sfdx force:data:tree:import -p data/Plan.json
-
 # Perform any post data tree import 
 sfdx force:apex:execute -f config/create-demo-data.apex
