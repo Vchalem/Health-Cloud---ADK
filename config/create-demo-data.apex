@@ -3,7 +3,8 @@
 //HcTaskData.createTasks();
 
 //assign CarePlans to ppl
-HcCarePlansData.cls
+HcCarePlansData.assignToMel();
+HcCarePlansData.assignToSally();
 
 
 

@@ -19,4 +19,4 @@ sfdx wry:file:replace -i data/preprocess
 sfdx force:data:tree:import -p data/Plan.json
 
 # Perform any post data tree import -- for assigning care plans to their owners..
-#sfdx force:apex:execute -f config/create-demo-data.apex
+sfdx force:apex:execute -f config/create-demo-data.apex
