@@ -10,7 +10,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Janet Campbell's Care Plan"
+            "Subject": "Janet Campbell's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -22,7 +23,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Post Discharge Care"
+            "Subject": "Post Discharge Care",  
+            "OwnerName__c": "Sally Agent"
         },
         {
             "attributes": {
@@ -35,7 +37,8 @@
             "Origin": "Phone",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Diabetes Care Plan"
+            "Subject": "Diabetes Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -53,7 +56,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Closed",
-            "Subject": "Heart - ASCVD - Statin"
+            "Subject": "Heart - ASCVD - Statin",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -71,7 +75,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Closed",
-            "Subject": "Diabetes - Retinal - Exam"
+            "Subject": "Diabetes - Retinal - Exam",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -89,7 +94,9 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Escalated",
-            "Subject": "Diabetes - DM - Statin"
+            "Subject": "Diabetes - DM - Statin",
+             "OwnerName__c": "Melinda Smith"
+
         },
         {
             "attributes": {
@@ -107,7 +114,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Post-Discharge - Patient Must Stay Active"
+            "Subject": "Post-Discharge - Patient Must Stay Active",
+             "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -125,7 +133,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Closed",
-            "Subject": "Diabetes - HbA1C - Test"
+            "Subject": "Diabetes - HbA1C - Test",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -143,7 +152,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Closed",
-            "Subject": "Heart - ASCVD - ACE / ARB"
+            "Subject": "Heart - ASCVD - ACE / ARB",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -161,7 +171,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Closed",
-            "Subject": "Heart - Beta - Blocker - Tx"
+            "Subject": "Heart - Beta - Blocker - Tx",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -179,7 +190,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "Closed",
-            "Subject": "Lung - Asthma - AMR"
+            "Subject": "Lung - Asthma - AMR",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -197,7 +209,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Diabetes - Nephropathy"
+            "Subject": "Diabetes - Nephropathy",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -209,7 +222,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Shawna Green's Care Plan"
+            "Subject": "Shawna Green's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -221,7 +235,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Joni Green's Care Plan"
+            "Subject": "Joni Green's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -233,7 +248,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Roy Green's Care Plan"
+            "Subject": "Roy Green's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -245,7 +261,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Jane Hamilton's Care Plan"
+            "Subject": "Jane Hamilton's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -262,7 +279,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Heart - ASCVD - Statin"
+            "Subject": "Heart - ASCVD - Statin",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -279,7 +297,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Diabetes - Nephropathy"
+            "Subject": "Diabetes - Nephropathy",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -296,7 +315,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Lung - Asthma Med Compl. 75%"
+            "Subject": "Lung - Asthma Med Compl. 75%",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -313,7 +333,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Heart - ASCVD - ACE / ARB"
+            "Subject": "Heart - ASCVD - ACE / ARB",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -330,7 +351,8 @@
             "Origin": "Email",
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Diabetes - DM - Statin"
+            "Subject": "Diabetes - DM - Statin",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -342,7 +364,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Philip Hamilton's Care Plan"
+            "Subject": "Philip Hamilton's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -354,7 +377,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "Steven Hamilton's Care Plan"
+            "Subject": "Steven Hamilton's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         },
         {
             "attributes": {
@@ -366,7 +390,8 @@
             "IsEscalated": false,
             "Priority": "Medium",
             "Status": "New",
-            "Subject": "David Morrison's Care Plan"
+            "Subject": "David Morrison's Care Plan",
+            "OwnerName__c": "Melinda Smith"
         }
     ]
 }

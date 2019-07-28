@@ -9,11 +9,11 @@
 public class HcDemoPack_DataSetup {
 
     //deactivate service agent
-    public static void deactiveAgent() {
-      User serviceAgent = [SELECT Id, IsActive FROM User WHERE Name ='Service Agent'];
-      serviceAgent.isActive = False;
-      update serviceAgent;
-    }
+    //public static void deactiveAgent() {
+     // User serviceAgent = [SELECT Id, IsActive FROM User WHERE Name ='Service Agent'];
+      //serviceAgent.isActive = False;
+      //update serviceAgent;
+    //}
 
 //create users 
     public static void createMel() {

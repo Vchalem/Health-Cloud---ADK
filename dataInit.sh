@@ -3,7 +3,7 @@
 # NOTE: This is intended to be run to load data into an org that was already initialized using orgInit.sh or other method
 #
 
-# Perform any pre-steps, prior to loading data
+# Perform any pre-steps, prior to loading data -- creates users..
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
 # Install the plugin to handle RecordType Ids, in case it wasn't already installed.
@@ -17,5 +17,6 @@ sfdx wry:file:replace -i data/preprocess
 
 # Load the newly converted files from the output directory
 sfdx force:data:tree:import -p data/Plan.json
-# Perform any post data tree import 
-sfdx force:apex:execute -f config/create-demo-data.apex
+
+# Perform any post data tree import -- for assigning care plans to their owners..
+#sfdx force:apex:execute -f config/create-demo-data.apex
