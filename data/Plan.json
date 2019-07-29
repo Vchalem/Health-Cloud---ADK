@@ -24,6 +24,12 @@
         "files": ["HealthCloudGA__CarePlanTemplateTask__c.json"]
     },
     {
+        "sobject": "HealthCloudGA__TimelineViewConfiguration__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["HealthCloudGA__TimelineViewConfiguration__c.json"]
+    },
+    {
         "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": false,
@@ -46,11 +52,5 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": ["HealthCloudGA__CarePlanGoal__c.json"]
-    },
-    {
-        "sobject": "HealthCloudGA__CarePlanTemplateTask__c",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": ["HealthCloudGA__CarePlanTemplateTask__c.json"]
     }
 ]
