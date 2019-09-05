@@ -3,8 +3,9 @@
 //HcTaskData.createTasks();
 
 //assign CarePlans to ppl
-HcCarePlansData.assignToMel();
-HcCarePlansData.assignToSally();
+HcCarePlansData.assignToUser('Melinda Smith');
+HcCarePlansData.assignToUser('Sally Agent');
+
 
 
 
