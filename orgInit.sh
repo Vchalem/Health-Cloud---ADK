@@ -10,6 +10,9 @@ sfdx force:package:install --package 04t1C000000Y1Qe -w 30
 # 220: --package 04t1C000000Apj5
 # 222: --package 04t1C000000Y1Qe
 
+#Install the unmanaged package extension
+sfdx force:package:install --package 04tC0000001Eeby -w 30
+
 # Deploy the metadata packages
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
 # sfdx force:mdapi:deploy --deploydir mdapi-source/data-config
@@ -21,6 +24,14 @@ sfdx force:source:push -f
 # Assign the permissions
 sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
 sfdx force:user:permset:assign -n HealthCloudAdmin
+sfdx force:user:permset:assign -n HealthCloudApi
+sfdx force:user:permset:assign -n HealthCloudFoundation
+sfdx force:user:permset:assign -n HealthCloudLimited
+sfdx force:user:permset:assign -n HealthCloudMemberServices
+sfdx force:user:permset:assign -n HealthCloudSocialDeterminants
+sfdx force:user:permset:assign -n HealthCloudStandard
+sfdx force:user:permset:assign -n HealthCloudUtilizationManagement
+
 #load users
 #sfdx force:user:create --definitionfile config/user1-def.json
 #sfdx force:user:create --definitionfile config/user2-def.json
