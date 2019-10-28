@@ -1,7 +1,7 @@
 {
     "orgName": "HC ADK",
     "country": "US",
-    "edition": "Enterprise",
+    "edition": "Partner Enterprise",
     "description": "Contains a baseline demo of Health Cloud app.",
     "features": [
       "HealthCloudUser",
@@ -10,15 +10,13 @@
       "PersonAccounts",
       "AnalyticsAdminPerms"
   ],
-    
     "settings": {
       "orgPreferenceSettings": {
-      "s1DesktopEnabled": true,
-      "chatterEnabled": true,
-      "networksEnabled": true
+        "s1DesktopEnabled": true,
+        "chatterEnabled": true,
+        "networksEnabled": true
       }
     }
-
 }
 
 

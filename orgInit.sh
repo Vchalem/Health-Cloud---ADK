@@ -15,7 +15,6 @@ sfdx force:package:install --package 04tC0000001Eeby -w 30
 
 # Deploy the metadata packages
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
-# sfdx force:mdapi:deploy --deploydir mdapi-source/data-config
 sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
 
 # Deploy the source code (will only work in scratch orgs)
