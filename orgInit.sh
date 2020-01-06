@@ -14,11 +14,11 @@ sfdx force:package:install --package 04t1C000000Y1Qe -w 30
 sfdx force:package:install --package 04tC0000001Eeby -w 30
 
 # Deploy the metadata packages
-sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
-sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
+sfdx force:mdapi:deploy --deploydir mdapi-source/app-config -w 20
+sfdx force:mdapi:deploy --deploydir mdapi-source/org-config -w 20
 
 # Deploy the source code (will only work in scratch orgs)
-sfdx force:source:push -f
+sfdx force:source:push -f -w 20
 
 # Assign the permissions
 sfdx force:user:permset:assign -n HealthCloudPermissionSetLicense
