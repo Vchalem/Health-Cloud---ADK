@@ -33,13 +33,13 @@
         "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": false,
-        "files": ["preprocess.out/Account.json"]
+        "files": ["preprocess/Account.json"]
     },
     {
         "sobject": "Case",
         "saveRefs": true,
         "resolveRefs": true,
-        "files": ["preprocess.out/CarePlan.json"]
+        "files": ["preprocess/CarePlan.json"]
     },
     {
         "sobject": "HealthCloudGA__CarePlanProblem__c",
@@ -52,5 +52,17 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": ["HealthCloudGA__CarePlanGoal__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrPatient__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrPatient__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrAllergyIntolerance__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrAllergyIntolerance__c.json"]
     }
 ]

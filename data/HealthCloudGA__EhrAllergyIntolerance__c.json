@@ -1,0 +1,154 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "RoyGreenEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "RoyGreenEhrAllergyIntolerance1"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "CharlesGreenEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "StevenHamiltonEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "PhilipHamiltonEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@PhilipHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "JoniGreenEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "DavidMorrisonEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@DavidMorrison"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "ShawnaGreenEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "CharlesGreenEhrAllergyIntolerance1"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "JanetCampbellEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@JanetCampbell"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "JaneHamiltonEhrAllergyIntolerance"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "RoyGreenEhrAllergyIntolerance2"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "PhilipHamiltonEhrAllergyIntolerance1"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@PhilipHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "DavidMorrisonEhrAllergyIntolerance1"
+            },
+            "HealthCloudGA__Substance255__c": "Penicillin",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@DavidMorrison"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrAllergyIntolerance__c",
+                "referenceId": "StevenHamiltonEhrAllergyIntolerance1"
+            },
+            "HealthCloudGA__Substance255__c": "Peanuts",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        }
+    ]
+}
