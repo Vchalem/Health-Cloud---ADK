@@ -1,5 +1,5 @@
 trigger MapCaseRecordType on Case (before Insert) {
-    system.debug('Account Request Triggered');
+    system.debug('Case Request Triggered');
     if(Trigger.isBefore && Trigger.isInsert){
         for(Case c : Trigger.New) {
             system.debug(c);

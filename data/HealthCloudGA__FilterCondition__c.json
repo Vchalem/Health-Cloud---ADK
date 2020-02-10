@@ -1,0 +1,46 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterCondition__c",
+                "referenceId": "HealthCloudGA__FilterCondition__cRef2"
+            },
+            "Name": "a4o6g000000H8dJ",
+            "HealthCloudGA__Value__c": "Ready for Discharge",
+            "HealthCloudGA__Type__c": "STRING",
+            "HealthCloudGA__RowNumber__c": 1,
+            "HealthCloudGA__Operator__c": "equals",
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrEncounter__c",
+            "HealthCloudGA__FieldName__c": "healthcloudga__status__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsReadyForDischargeFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterCondition__c",
+                "referenceId": "HealthCloudGA__FilterCondition__cRef3"
+            },
+            "Name": "a4o6g000000H8dK",
+            "HealthCloudGA__Value__c": "Type 2 diabetes",
+            "HealthCloudGA__Type__c": "STRING",
+            "HealthCloudGA__RowNumber__c": 1,
+            "HealthCloudGA__Operator__c": "contains",
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrCondition__c",
+            "HealthCloudGA__FieldName__c": "healthcloudga__codelabel__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsWithDiabetesFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterCondition__c",
+                "referenceId": "HealthCloudGA__FilterCondition__cRef4"
+            },
+            "Name": "a4o6g000000H8dL",
+            "HealthCloudGA__Value__c": "Insulin",
+            "HealthCloudGA__Type__c": "STRING",
+            "HealthCloudGA__RowNumber__c": 2,
+            "HealthCloudGA__Operator__c": "contains",
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrMedicationPrescription__c",
+            "HealthCloudGA__FieldName__c": "healthcloudga__medicationname__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsWithDiabetesFilterCriterion"
+        }
+    ]
+}

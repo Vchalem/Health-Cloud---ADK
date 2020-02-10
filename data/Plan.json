@@ -30,6 +30,24 @@
         "files": ["HealthCloudGA__TimelineViewConfiguration__c.json"]
     },
     {
+        "sobject": "HealthCloudGA__FilterCriterion__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__FilterCriterion__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__FilterColumn__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__FilterColumn__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__FilterCondition__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__FilterCondition__c.json"]
+    },
+    {
         "sobject": "Account",
         "saveRefs": true,
         "resolveRefs": false,
@@ -70,6 +88,12 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": ["HealthCloudGA__EhrCondition__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrEncounter__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrEncounter__c.json"]
     },
     {
         "sobject": "HealthCloudGA__EhrImmunization__c",

@@ -1,0 +1,512 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef1"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-03-25T01:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-03-25T01:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef2"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-04-08T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-04-08T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef3"
+            },
+            "HealthCloudGA__TypeLabel__c": "Inpatient Visit",
+            "HealthCloudGA__Status__c": "Ready for Discharge",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-05-02T19:44:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-06-28T19:44:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef4"
+            },
+            "HealthCloudGA__TypeLabel__c": "Inpatient Visit",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-01-31T01:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-01-31T01:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef5"
+            },
+            "HealthCloudGA__TypeLabel__c": "30 Min Consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-03-26T21:44:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-03-26T21:44:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef6"
+            },
+            "HealthCloudGA__TypeLabel__c": "Diabetes Consultation",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-08-26T20:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-08-26T20:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef7"
+            },
+            "HealthCloudGA__TypeLabel__c": "Blood Draw",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2020-08-24T19:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2020-08-24T19:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef8"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-08T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-08T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef9"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-20T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-20T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef10"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-13T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-13T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef11"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-16T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-16T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef12"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-27T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-27T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef13"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-10T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-10T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef14"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-21T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-21T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef15"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-13T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-13T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef16"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-14T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-14T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef17"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-11T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-11T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef18"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-26T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-26T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef19"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-21T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-21T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef20"
+            },
+            "HealthCloudGA__TypeLabel__c": "30 min consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-01T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-01T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef21"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-12T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-12T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef22"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-14T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-14T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef23"
+            },
+            "HealthCloudGA__TypeLabel__c": "30 min consultation",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-08-25T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-08-25T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef24"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-12T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-12T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef25"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-21T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-21T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef26"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-11T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-11T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef27"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-08-25T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-08-25T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef28"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-29T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-29T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef29"
+            },
+            "HealthCloudGA__TypeLabel__c": "30 min consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-09T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-09T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef30"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "MISSED",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-03T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-03T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef31"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Complete",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-11T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-11T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "primary care",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef32"
+            },
+            "HealthCloudGA__TypeLabel__c": "PCP Check Up",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-08-29T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-08-29T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef33"
+            },
+            "HealthCloudGA__TypeLabel__c": "ER Visit",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-10-08T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-10-08T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrEncounter__c",
+                "referenceId": "HealthCloudGA__EhrEncounter__cRef34"
+            },
+            "HealthCloudGA__TypeLabel__c": "60 min consultation",
+            "HealthCloudGA__Status__c": "Discharged",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__PeriodStart__c": "2019-09-24T00:00:00.000+0000",
+            "HealthCloudGA__PeriodEnd__c": "2019-09-24T00:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__HospitalizeReadmission__c": false,
+            "HealthCloudGA__Class__c": "ambulatory",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        }
+    ]
+}

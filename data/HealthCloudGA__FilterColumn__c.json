@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterColumn__c",
+                "referenceId": "HealthCloudGA__FilterColumn__cRef1"
+            },
+            "Name": "a4n6g000000Hl3O",
+            "HealthCloudGA__Order__c": 1,
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrCondition__c",
+            "HealthCloudGA__FieldApi__c": "healthcloudga__codelabel__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsWithDiabetesFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterColumn__c",
+                "referenceId": "HealthCloudGA__FilterColumn__cRef2"
+            },
+            "Name": "a4n6g000000Hl3P",
+            "HealthCloudGA__Order__c": 2,
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrMedicationPrescription__c",
+            "HealthCloudGA__FieldApi__c": "healthcloudga__medicationname__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsWithDiabetesFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterColumn__c",
+                "referenceId": "HealthCloudGA__FilterColumn__cRef4"
+            },
+            "Name": "a4n6g000000Hl3R",
+            "HealthCloudGA__Order__c": 2,
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrCondition__c",
+            "HealthCloudGA__FieldApi__c": "healthcloudga__codelabel__c",
+            "HealthCloudGA__FilterCriterion__c": "@MotivatedRunnersFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterColumn__c",
+                "referenceId": "HealthCloudGA__FilterColumn__cRef8"
+            },
+            "Name": "a4n6g000000Hl3V",
+            "HealthCloudGA__Order__c": 1,
+            "HealthCloudGA__ObjectName__c": "Account",
+            "HealthCloudGA__FieldApi__c": "name",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsReadyForDischargeFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterColumn__c",
+                "referenceId": "HealthCloudGA__FilterColumn__cRef9"
+            },
+            "Name": "a4n6g000000Hl3W",
+            "HealthCloudGA__Order__c": 2,
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrEncounter__c",
+            "HealthCloudGA__FieldApi__c": "healthcloudga__encounter__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsReadyForDischargeFilterCriterion"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__FilterColumn__c",
+                "referenceId": "HealthCloudGA__FilterColumn__cRef10"
+            },
+            "Name": "a4n6g000000Hl3X",
+            "HealthCloudGA__Order__c": 3,
+            "HealthCloudGA__ObjectName__c": "HealthCloudGA__EhrEncounter__c",
+            "HealthCloudGA__FieldApi__c": "healthcloudga__typelabel__c",
+            "HealthCloudGA__FilterCriterion__c": "@PatientsReadyForDischargeFilterCriterion"
+        }
+    ]
+}
