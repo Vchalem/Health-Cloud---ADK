@@ -1,0 +1,92 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement1"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Striverdi Respimat",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__MedicationExpiration__c": "2020-05-02T19:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+            
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement2"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Striverdi Respimat",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement3"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Avandia",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement4"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Humalog",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement5"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Prandin",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__MedicationExpiration__c": "2020-04-25T19:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement6"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Metformin",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__MedicationExpiration__c": "2020-04-25T19:00:00.000+0000",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrMedicationStatement__c",
+                "referenceId": "CharlesGreenEhrMedicationStatement7"
+            },
+            "HealthCloudGA__WasNotGiven__c": false,
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__MedicationName__c": "Nategilinide",
+            "HealthCloudGA__MedicationIsBrand__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EHRProcedure__c",
+                "referenceId": "CharlesGreenEHRProcedure"
+            },
+            "HealthCloudGA__Status__c": "Completed",
+            "HealthCloudGA__PerformedDateTime__c": "2020-03-28T20:00:00.000+0000",
+            "HealthCloudGA__NotPerformed__c": false,
+            "HealthCloudGA__CodeLabel__c": "Total Hip Replacement - Right - 0SR9.049",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "RoyGreenEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-09-18T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-09T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "StevenHamiltonEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-10-23T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-24T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "PhilipHamiltonEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-10-23T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-24T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@PhilipHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "JoniGreenEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-07-25T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-10T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "DavidMorrisonEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-07-25T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-10T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@DavidMorrison"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "ShawnaGreenEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2021-01-11T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-08-28T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "CharlesGreenEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2021-01-11T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-08-28T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "JanetCampbellEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-09-29T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-18T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@JanetCampbell"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "JaneHamiltonEhrImmunization"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-09-29T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-18T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "RoyGreenEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-09-18T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-09T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "StevenHamiltonEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-05-06T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-04T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "PhilipHamiltonEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-05-06T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-04T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@PhilipHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "JoniGreenEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2021-02-03T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-28T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@JoniGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "DavidMorrisonEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2021-02-03T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-28T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@DavidMorrison"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "ShawnaGreenEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-11-16T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-10-18T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@ShawnaGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "CharlesGreenEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-11-16T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-10-18T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "JanetCampbellEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-06-05T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-29T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@JanetCampbell"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "JaneHamiltonEhrImmunization1"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-06-05T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-09-29T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@JaneHamilton"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "RoyGreenEhrImmunization2"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "Influenza",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-08-06T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-10-03T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrImmunization__c",
+                "referenceId": "StevenHamiltonEhrImmunization2"
+            },
+            "HealthCloudGA__VaccineTypeLabel__c": "DTP",
+            "HealthCloudGA__SourceSystem__c": "Health1-00D36000000rGMZ",
+            "HealthCloudGA__SelfReported__c": false,
+            "HealthCloudGA__RefusedIndicator__c": false,
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__ExpirationDate__c": "2020-08-06T00:00:00.000+0000",
+            "HealthCloudGA__DateAdministered__c": "2019-10-03T00:00:00.000+0000",
+            "HealthCloudGA__Account__c": "@StevenHamilton"
+        }
+    ]
+}

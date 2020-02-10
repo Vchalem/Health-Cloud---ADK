@@ -1,0 +1,50 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrRelatedPerson__c",
+                "referenceId": "CharlesGreenEhrRelatedPerson1"
+            },
+            "HealthCloudGA__SourceSystem__c": "Health1-00D80000000Ti06",
+            "HealthCloudGA__Relationship__c": "AGENT",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__GivenName1__c": "Shawna Green",
+            "HealthCloudGA__BirthDate__c": "1947-06-15",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrRelatedPerson__c",
+                "referenceId": "CharlesGreenEhrRelatedPerson2"
+            },
+            "HealthCloudGA__SourceSystem__c": "Health1-00DB0000000JEDS",
+            "HealthCloudGA__Patient__c": "@CharlesGreenEhrPatient",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrRelatedPerson__c",
+                "referenceId": "CharlesGreenEhrRelatedPerson3"
+            },
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__Role__c": "Spouse",
+            "HealthCloudGA__Relationship__c": "Spouse",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__GivenName1__c": "Jose Gonzalez",
+            "HealthCloudGA__Account__c": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "HealthCloudGA__EhrRelatedPerson__c",
+                "referenceId": "RoyGreenEhrRelatedPerson"
+            },
+            "HealthCloudGA__SourceSystem__c": "Health1-00D3A000001XB2c",
+            "HealthCloudGA__Relationship__c": "Mother",
+            "HealthCloudGA__IsRestricted__c": false,
+            "HealthCloudGA__GivenName1__c": "Jane Kid",
+            "HealthCloudGA__BirthDate__c": "1982-12-08",
+            "HealthCloudGA__Account__c": "@RoyGreen"
+        }
+    ]
+}
