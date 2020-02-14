@@ -11,24 +11,9 @@ recTypes.result.records.forEach(record => {
 });
 
 objectData.records.forEach(record => {
-
-  if(object == "Task"){
-    let mapContactData = new Map();
-    var contactData = require(`../data/preprocess/ContactWhoId.json`);
-    contactData.result.records.forEach(record => {
-      mapContactData.set(record.Name, record.Id);
-    });
     if (mapRecordTypes.has(record.RecordTypeId)) {
       record.RecordTypeId = mapRecordTypes.get(record.RecordTypeId);
     }
-    record.WhoId = mapContactData.get(record.WhoId);
-    
-  }
-  else {
-    if (mapRecordTypes.has(record.RecordTypeId)) {
-      record.RecordTypeId = mapRecordTypes.get(record.RecordTypeId);
-    }
-  }
 });
 
 try {
