@@ -46,5 +46,71 @@
         "saveRefs": true,
         "resolveRefs": true,
         "files": ["Task.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__CarePlanProblem__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__CarePlanProblem__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__CarePlanGoal__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__CarePlanGoal__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrPatient__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrPatient__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrAllergyIntolerance__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrAllergyIntolerance__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrCondition__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrCondition__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrEncounter__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrEncounter__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrImmunization__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrImmunization__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrMedicationPrescription__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrMedicationPrescription__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrMedicationStatement__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrMedicationStatement__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EhrRelatedPerson__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EhrRelatedPerson__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__EHRProcedure__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": ["HealthCloudGA__EHRProcedure__c.json"]
     }
 ]

@@ -40,6 +40,31 @@
         {
             "attributes": {
                 "type": "Case",
+                "referenceId": "StevenHamilton_CarePlan"
+            },
+            "AccountId": "@StevenHamilton",
+            "RecordTypeId": "CarePlan",
+            "IsEscalated": false,
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Steven Hamilton's Care Plan"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "PhilipHamilton_CarePlan"
+            },
+            "AccountId": "@PhilipHamilton",
+            "RecordTypeId": "CarePlan",
+            "IsEscalated": false,
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Philip Hamilton's Care Plan",
+            "OwnerName__c": "Melinda Smith"
+        },
+        {
+            "attributes": {
+                "type": "Case",
                 "referenceId": "JanetCampbell_CarePlan"
             },
             "Subject": "Janet Campbell's Care Plan",
@@ -48,6 +73,55 @@
             "Priority": "Medium",
             "IsEscalated": false,
             "AccountId": "@JanetCampbell"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreen_PostDischargeCare"
+            },
+            "AccountId": "@CharlesGreen",
+            "RecordTypeId": "CarePlan",
+            "IsEscalated": false,
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Post Discharge Care"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "JoniGreen_CarePlan"
+            },
+            "AccountId": "@JoniGreen",
+            "RecordTypeId": "CarePlan",
+            "IsEscalated": false,
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Joni Green's Care Plan"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "RoyGreen_CarePlan"
+            },
+            "AccountId": "@RoyGreen",
+            "RecordTypeId": "CarePlan",
+            "IsEscalated": false,
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Roy Green's Care Plan"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreen_DiabetesCarePlan"
+            },
+            "AccountId": "@CharlesGreen",
+            "RecordTypeId": "CarePlan",
+            "IsEscalated": false,
+            "Origin": "Phone",
+            "Priority": "Medium",
+            "Status": "New",
+            "Subject": "Diabetes Care Plan"
         },
         {
             "attributes": {
