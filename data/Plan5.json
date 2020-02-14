@@ -1,15 +1,9 @@
 [
     {
-        "sobject": "Account",
+        "sobject": "HealthCloudGA__FilterColumn__c.json",
         "saveRefs": true,
         "resolveRefs": false,
-        "files": ["Account.json"]
-    },
-    {
-        "sobject": "Task",
-        "saveRefs": false,
-        "resolveRefs": false,
-        "files": ["Task.json"]
+        "files": ["HealthCloudGA__FilterColumn__c.json"]
     }
 
 

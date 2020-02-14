@@ -50,6 +50,12 @@ sfdx force:data:soql:query -q "SELECT DeveloperName,Id,IsActive,SobjectType FROM
 #Run JavaScript file to create a new file where the DeveloperName will be replaced with the SF ID of the current Org
 node ./scripts/replaceRecordType.js Task
 
+#Output the RecordTypes of HealthCloudGA__FilterCriterion__c Object
+sfdx force:data:soql:query -q "SELECT DeveloperName,Id,IsActive,SobjectType FROM RecordType where SobjectType='HealthCloudGA__FilterCriterion__c'" --json > ./data/preprocess/HealthCloudGA__FilterCriterion__cRecordTypes.json
+
+#Run JavaScript file to create a new file where the DeveloperName will be replaced with the SF ID of the current Org
+node ./scripts/replaceRecordType.js Task
+
 # Load the newly converted files from the output directory
 sfdx force:data:tree:import -p data/Plan4.json
 

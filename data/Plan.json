@@ -24,16 +24,16 @@
         "files": ["HealthCloudGA__CarePlanTemplateTask__c.json"]
     },
     {
-        "sobject": "HealthCloudGA__TimelineViewConfiguration__c",
-        "saveRefs": true,
-        "resolveRefs": false,
-        "files": ["HealthCloudGA__TimelineViewConfiguration__c.json"]
-    },
-    {
         "sobject": "HealthCloudGA__FilterCriterion__c",
         "saveRefs": true,
         "resolveRefs": true,
         "files": ["HealthCloudGA__FilterCriterion__c.json"]
+    },
+    {
+        "sobject": "HealthCloudGA__TimelineViewConfiguration__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": ["HealthCloudGA__TimelineViewConfiguration__c.json"]
     },
     {
         "sobject": "HealthCloudGA__FilterColumn__c",

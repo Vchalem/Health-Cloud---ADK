@@ -5,7 +5,7 @@
                 "type": "HealthCloudGA__FilterCriterion__c",
                 "referenceId": "PatientsWithDiabetesFilterCriterion"
             },
-            "Record_Type__c": "PatientList",
+            "RecordTypeId": "PatientList",
             "Name": "Patients with Diabetes",
             "HealthCloudGA__ObjectName__c": "Account",
             "HealthCloudGA__IsWaveList__c": false,
@@ -16,7 +16,7 @@
                 "type": "HealthCloudGA__FilterCriterion__c",
                 "referenceId": "MotivatedRunnersFilterCriterion"
             },
-            "Record_Type__c": "PatientList",
+            "RecordTypeId": "PatientList",
             "Name": "Motivated Runners",
             "HealthCloudGA__ObjectName__c": "Account",
             "HealthCloudGA__IsWaveList__c": false
@@ -26,7 +26,7 @@
                 "type": "HealthCloudGA__FilterCriterion__c",
                 "referenceId": "PatientsReadyForDischargeFilterCriterion"
             },
-            "Record_Type__c": "PatientList",
+            "RecordTypeId": "PatientList",
             "Name": "Patients Ready for Discharge",
             "HealthCloudGA__ObjectName__c": "Account",
             "HealthCloudGA__IsWaveList__c": false
@@ -36,7 +36,7 @@
                 "type": "HealthCloudGA__FilterCriterion__c",
                 "referenceId": "TasksEmpowerFilterCriterion"
             },
-            "Record_Type__c": "Timeline",
+            "RecordTypeId": "Timeline",
             "Name": "Tasks Empower",
             "HealthCloudGA__ObjectName__c": "Task",
             "HealthCloudGA__IsWaveList__c": false
@@ -46,7 +46,7 @@
                 "type": "HealthCloudGA__FilterCriterion__c",
                 "referenceId": "TaskEmpowerFilterCriterion"
             },
-            "Record_Type__c": "Timeline",
+            "RecordTypeId": "Timeline",
             "Name": "Task Empower",
             "HealthCloudGA__ObjectName__c": "Task",
             "HealthCloudGA__IsWaveList__c": false
