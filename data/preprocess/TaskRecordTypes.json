@@ -1,0 +1,19 @@
+{
+  "status": 0,
+  "result": {
+    "totalSize": 1,
+    "done": true,
+    "records": [
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1bhQAC"
+        },
+        "DeveloperName": "CarePlanTask",
+        "Id": "0120R000001W1bhQAC",
+        "IsActive": true,
+        "SobjectType": "Task"
+      }
+    ]
+  }
+}

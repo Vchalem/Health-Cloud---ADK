@@ -5,7 +5,7 @@
                 "type": "Contact",
                 "referenceId": "ContactRoyGreen"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@RoyGreen",
             "Birthdate": "1984-05-16",
             "FirstName": "Roy",
@@ -24,7 +24,7 @@
                 "type": "Contact",
                 "referenceId": "ContactStevenHamilton"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@StevenHamilton",
             "Birthdate": "1968-11-29",
             "FirstName": "Steven",
@@ -43,7 +43,7 @@
                 "type": "Contact",
                 "referenceId": "ContactPhilipHamilton"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@PhilipHamilton",
             "Birthdate": "1960-05-04",
             "FirstName": "Philip",
@@ -62,7 +62,7 @@
                 "type": "Contact",
                 "referenceId": "ContactJoniGreen"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@JoniGreen",
             "Birthdate": "1982-04-27",
             "FirstName": "Joni",
@@ -79,40 +79,9 @@
         {
             "attributes": {
                 "type": "Contact",
-                "referenceId": "ContactRandelAbrams"
-            },
-            "Record_Type__c": "IndustriesIndividual",
-            "AccountId": "@RandelAbrams",
-            "Birthdate": "1987-08-28",
-            "Email": "rabrams_@ghs.org",
-            "FirstName": "Randel",
-            "HealthCloudGA__CountryOfBirth__c": "United States",
-            "HealthCloudGA__CreatedFromLead__c": false,
-            "HealthCloudGA__Gender__c": "Male",
-            "HealthCloudGA__PrimaryLanguage__c": "English",
-            "HealthCloudGA__SecondaryLanguage__c": "English",
-            "HomePhone": "(073)-927-7164",
-            "Jigsaw": "40087039",
-            "JigsawContactId": "40087039",
-            "LastName": "Abrams",
-            "LeadSource": "Physician Referral",
-            "MailingCity": "Greenville",
-            "MailingCountry": "United States",
-            "MailingGeocodeAccuracy": null,
-            "MailingLatitude": null,
-            "MailingLongitude": null,
-            "MailingPostalCode": "29605-4286",
-            "MailingState": "SC",
-            "MailingStreet": "890 W Faris Rd Ste 440",
-            "Phone": "+1.864.455.5070",
-            "Title": "General Surgeon"
-        },
-        {
-            "attributes": {
-                "type": "Contact",
                 "referenceId": "ContactShawnaGreen"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@ShawnaGreen",
             "Birthdate": "1975-03-23",
             "FirstName": "Shawna",
@@ -132,7 +101,7 @@
                 "type": "Contact",
                 "referenceId": "ContactCharlesGreen"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@CharlesGreen",
             "Birthdate": "1946-05-27",
             "Email": "cgreen.df18.sfdc@gmail.com",
@@ -173,7 +142,7 @@
                 "type": "Contact",
                 "referenceId": "ContactJanetCampbell"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@JanetCampbell",
             "Birthdate": "1973-07-04",
             "FirstName": "Janet",
@@ -192,7 +161,7 @@
                 "type": "Contact",
                 "referenceId": "ContactJaneHamilton"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@JaneHamilton",
             "Birthdate": "1960-06-01",
             "FirstName": "Jane",
@@ -211,7 +180,7 @@
                 "type": "Contact",
                 "referenceId": "ContactDavidMorrison"
             },
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "AccountId": "@DavidMorrison",
             "Birthdate": "1973-01-20",
             "FirstName": "David",

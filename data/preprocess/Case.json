@@ -3,114 +3,207 @@
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef1"
+                "referenceId": "ShawnaGreen_CarePlan"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Claims_Dispute}",
-            "Description": "Question about claim and unpaid amount from labs",
-            "IsEscalated": false,
-            "Origin": "Website",
+            "Subject": "Shawna Greens's Care Plan",
+            "Status": "New",
+            "RecordTypeId": "CarePlan",
             "Priority": "Medium",
-            "Reason": "New problem",
-            "Status": "Working",
-            "Subject": "Question about bill from lab"
+            "Origin": "Email",
+            "IsEscalated": false,
+            "AccountId": "@JanetCampbell"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef2"
+                "referenceId": "DavidMorrison_CarePlan"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Schedule_Appointment}",
-            "IsEscalated": false,
-            "Origin": "Phone",
-            "Priority": "Medium",
-            "Reason": "New problem",
+            "Subject": "David Morrison's Care Plan",
             "Status": "New",
-            "Subject": "Diabetes Consultation Appointment"
+            "RecordTypeId": "CarePlan",
+            "Priority": "Medium",
+            "IsEscalated": false,
+            "AccountId": "@DavidMorrison"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef3"
+                "referenceId": "JaneHamilton_CarePlan"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Claims_Dispute}",
-            "IsEscalated": false,
-            "Origin": "Website",
-            "Priority": "Medium",
-            "Reason": "New problem",
+            "Subject": "Jane Hamilton's Care Plan",
             "Status": "New",
-            "Subject": "Claims issue"
+            "RecordTypeId": "CarePlan",
+            "Priority": "Medium",
+            "IsEscalated": false,
+            "AccountId": "@JaneHamilton"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef4"
+                "referenceId": "JanetCampbell_CarePlan"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Grievance}",
-            "Description": "Member's brother was upset and stated that he was not told that, states that when they started the enrollment process he was told that the plan was like AARP or BCBS a supplemental plan.   I explained to the member's brother that we are Medicare Replacement plan. Member's brother Colin was very upset and states that they were not explained any of this and also asked about cancelling.",
-            "IsEscalated": false,
-            "Origin": "Website",
-            "Priority": "Medium",
+            "Subject": "Janet Campbell's Care Plan",
             "Status": "New",
-            "Subject": "Grievance related to Sales"
+            "RecordTypeId": "CarePlan",
+            "Priority": "Medium",
+            "IsEscalated": false,
+            "AccountId": "@JanetCampbell"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef5"
+                "referenceId": "CharlesGreen_CarePlan"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Grievance}",
-            "Description": "Receiving care from Retina Associates and can't see out of eye  since middle of July. Doctor says it's too soon to tell.   Member is about to get another retina specialist because he needs to be able to see. He has blood in his eye from an injection with the doctor. Was not informed of side effects until injection was completed. He's seeing another doctor right now, and he's saying the same thing. He needs someone to do something about his eye.",
-            "IsEscalated": false,
-            "Origin": "Website",
-            "Priority": "Medium",
+            "Subject": "Charles Green's Care Plan",
             "Status": "New",
-            "Subject": "Grievance related to retina specialist"
+            "RecordTypeId": "CarePlan",
+            "Priority": "Medium",
+            "IsEscalated": false,
+            "AccountId": "@CharlesGreen"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef6"
+                "referenceId": "CharlesGreenCareGapRef3"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Grievance}",
-            "Description": "IB call from member stating he was having difficulty obtaining his prescribed medication of Myfortic-Mycophenolic acid, this medication is used to prevent organ rejection after transplant.  Member states pharmacy informed the member that the medication has been rejected by the insurance and is a Part B medication. Member became very angry after informing member the rejection was possible due to the medication being a immunosuppressant drug, which requires authorization from the provider. Member states the pharmacy called yesterday to run the prescription and were told that the medication was Part B covered and did not mention anything about a prior authorization, member states at the time if they were informed of that, member would have done the authorization. Member then continued to express his frustration stating this medication was extremely important to prevent his body rejecting his kidney that he waited years for.",
-            "IsEscalated": false,
-            "Origin": "Website",
+            "Subject": "Diabetes - DM - Statin",
+            "Status": "Escalated",
+            "RecordTypeId": "CareGap",
             "Priority": "Medium",
-            "Status": "New",
-            "Subject": "Grievance related to Part B Drugs"
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 1,
+            "HealthCloudGA__DueDate__c": "2020-12-04",
+            "Description": "Males age 21-75 years of age and females age 40-75 in the IVD population (see above) who were dispensed at least one high or moderate-intensity statin medication during the measurement year. High-intensity #Atorvastatin 40?80 mg #Amlodipine-atorvastatin 40-80 mg #Ezetimibe-atorvastatin 40-80 mg #Rosuvastatin 20?40 mg #Simvastatin 80 mg #Ezetimibe-simvastatin 80 mg Moderate-intensity #Atorvastatin 10?20 mg #Amlodipine-atorvastatin 10-20 mg #Ezetimibe-atorvastatin 10-20 mg #Rosuvastatin 5?10 mg #Simvastatin 20?40 mg #Ezetimibe-simvastatin 20-40 mg #Niacin-simvastatin 20-40 mg #Sitagliptin-simvastatin 20-40 mg #Pravastatin 40?80 mg #Lovastatin 40 mg #Niacin-lovastatin 40 mg #Fluvastatin XL 80 mg #Fluvastatin 40 mg bid",
+            "AccountId": "@CharlesGreen"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef7"
+                "referenceId": "CharlesGreenCareGapRef7"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Claims_Dispute}",
-            "Description": "test",
-            "IsEscalated": false,
-            "Origin": "Website",
-            "Priority": "Medium",
+            "Subject": "Lung - Asthma Med Compl. 75%",
             "Status": "New",
-            "Subject": "test"
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 2,
+            "HealthCloudGA__DueDate__c": "2020-12-26",
+            "Description": "Documentation in the medical record must include a note indicating in the past 12 the most recent date when the HbA1c test was performed and the months result or finding.",
+            "AccountId": "@CharlesGreen"
         },
         {
             "attributes": {
                 "type": "Case",
-                "referenceId": "CharlesGreenCaseRef8"
+                "referenceId": "CharlesGreenCareGapRef8"
             },
-            "AccountId": "@CharlesGreen",
-            "RecordTypeId": "$R{RecordType.Case.Schedule_Appointment}",
-            "IsEscalated": false,
-            "Origin": "Website",
+            "Subject": "Diabetes - HbA1C - Test",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
             "Priority": "Medium",
-            "Status": "New",
-            "Subject": "Pre-Surgical Consultation for Total Hip Replacement"
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 1,
+            "HealthCloudGA__DueDate__c": "2020-02-15",
+            "Description": "Individuals 18 years of age and older with the diagnosis of myocardial infarction (MI) who continued to take a beta-blocker for at least 6 months following their MI",
+            "AccountId": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreenCareGapRef9"
+            },
+            "Subject": "Heart - ASCVD - ACE / ARB",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 0,
+            "HealthCloudGA__DueDate__c": "2020-03-09",
+            "Description": "Individuals with persistent asthma who remained on an asthma controller medication for at least 75% of their treatment period. Proportion of days covered = Days covered by medication ÷ Days in treatment period The treatment period is the earliest dispensing eventº for any controller medication during the measurement year through the end of the measurement year.",
+            "AccountId": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreenCareGapRef10"
+            },
+            "Subject": "Heart - Beta - Blocker - Tx",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 3,
+            "HealthCloudGA__DueDate__c": "2020-01-17",
+            "Description": "Individuals in the IVD population (see above) who had at least one prescription for an ACE inhibitor or angiotensin receptor blocker (ARB) in the last 6 months.",
+            "AccountId": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreenCareGapRef11"
+            },
+            "Subject": "Lung - Asthma - AMR",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 4,
+            "HealthCloudGA__DueDate__c": "2020-02-01",
+            "Description": "Individuals age 5-85 identified as having persistent asthma. Persistent asthma is determined by the following activities during the measurement year or the year prior to the measurement year: at least one encounter in an inpatient/emergency room setting with a principal diagnosis of asthma or four office visits with any diagnosis of asthma and at least two asthma medication dispensing eventsº or at least four asthma medication dispensing eventsº. Individuals who were only dispensed leukotriene modifiers or antibody inhibitors must also have at least one diagnosis of asthma in the same year.",
+            "AccountId": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreenCareGapRef14"
+            },
+            "Subject": "Diabetes - Nephropathy",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 5,
+            "HealthCloudGA__DueDate__c": "2020-01-03",
+            "Description": "Screening Mammogram in the past two years. Documentation may include the radiology report or a note indicating the date and result. Exclusion Bilateral or two single mastectomies any time in the member's history.",
+            "AccountId": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreenCareGapRef12"
+            },
+            "Subject": "Heart - ASCVD - Statin",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 6,
+            "HealthCloudGA__DueDate__c": "2020-01-26",
+            "Description": "Individuals age 40-75 with type 1 or type 2 diabetes who were dispensed at least one statin medication of any intensity during the measurement year.",
+            "AccountId": "@CharlesGreen"
+        },
+        {
+            "attributes": {
+                "type": "Case",
+                "referenceId": "CharlesGreenCareGapRef13"
+            },
+            "Subject": "Diabetes - Retinal - Exam",
+            "Status": "Closed",
+            "RecordTypeId": "CareGap",
+            "Priority": "Medium",
+            "Origin": "Email",
+            "IsEscalated": false,
+            "HealthCloudGA__SortOrder__c": 7,
+            "HealthCloudGA__DueDate__c": "2019-12-07",
+            "Description": "Screening # Pap smear within the past three (3) years or Pap smear with HPV co-testing for women ages 30-64 every five (5) years. # A note indicating the date when the test was performed, and the result or finding. # For women ages 30-64, reflex testing does not meet the criteria for HPV co-testing. Both tests must be ordered. In co-testing, both cytology and HPV are ordered. HPV testing based on Pap smear results is considered reflex testing and does not count towards the HPV co-testing HEDIS measure. # Lab results that explicitly state the sample was inadequate or that 'no cervical cells were present' do not count; this is not considered appropriate screening. ?#Biopsies do not count because they are diagnostic and therapeutic only and are not valid for primary cervical cancer screening. Exclusion Documentation must include a note indicating a hysterectomy with no residual cervix by December 31St of the measurement year. # Complete, Total or Radical abdominal or vaginal hysterectomy meets criteria for hysterectomy with no residual cervix. # Documentation of a Vaginal Pap Smear in conjunction with documentation of Hysterectomy meets exclusion criteria. # Documentation of hysterectomy in combination with documentation that the patient no longer needs pap testing/cervical cancer screening # Documentation of hysterectomy alone does not meet criteria because it does not indicate that the cervix was removed.",
+            "AccountId": "@CharlesGreen"
         }
     ]
 }

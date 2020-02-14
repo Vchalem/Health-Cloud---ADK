@@ -1,0 +1,69 @@
+{
+  "status": 0,
+  "result": {
+    "totalSize": 6,
+    "done": true,
+    "records": [
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1WuQAK"
+        },
+        "DeveloperName": "Business_Account",
+        "Id": "0120R000001W1WuQAK",
+        "IsActive": true,
+        "SobjectType": "Account"
+      },
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1WvQAK"
+        },
+        "DeveloperName": "PersonAccount",
+        "Id": "0120R000001W1WvQAK",
+        "IsActive": true,
+        "SobjectType": "Account"
+      },
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1bOQAS"
+        },
+        "DeveloperName": "IndustriesBusiness",
+        "Id": "0120R000001W1bOQAS",
+        "IsActive": true,
+        "SobjectType": "Account"
+      },
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1bPQAS"
+        },
+        "DeveloperName": "IndustriesHousehold",
+        "Id": "0120R000001W1bPQAS",
+        "IsActive": true,
+        "SobjectType": "Account"
+      },
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1bQQAS"
+        },
+        "DeveloperName": "IndustriesIndividual",
+        "Id": "0120R000001W1bQQAS",
+        "IsActive": true,
+        "SobjectType": "Account"
+      },
+      {
+        "attributes": {
+          "type": "RecordType",
+          "url": "/services/data/v47.0/sobjects/RecordType/0120R000001W1bRQAS"
+        },
+        "DeveloperName": "IndustriesPayer",
+        "Id": "0120R000001W1bRQAS",
+        "IsActive": true,
+        "SobjectType": "Account"
+      }
+    ]
+  }
+}

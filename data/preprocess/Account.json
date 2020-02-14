@@ -6,7 +6,7 @@
                 "referenceId": "RoyGreen"
             },
             "Name": "Roy Green",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5UgCAAV1466706568536",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -22,7 +22,7 @@
                 "referenceId": "CharlesGreenHousehold"
             },
             "Name": "Charles Green Household",
-            "Record_Type__c": "IndustriesHousehold",
+            "RecordTypeId": "IndustriesHousehold",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__EnrollmentType__c": "NonDual",
             "HealthCloudGA__IndividualType__c": "Group",
@@ -37,7 +37,7 @@
                 "referenceId": "StevenHamilton"
             },
             "Name": "Steven Hamilton",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5VUQAA31466707024358",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -53,7 +53,7 @@
                 "referenceId": "PhilipHamilton"
             },
             "Name": "Philip Hamilton",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5UfdAAF1466706535154",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -69,7 +69,7 @@
                 "referenceId": "JoniGreen"
             },
             "Name": "Joni Green",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0014600000jJZIGAA41495132559127",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -85,7 +85,7 @@
                 "referenceId": "DavidMorrison"
             },
             "Name": "David Morrison",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5UIgAAN1466705493068",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -101,7 +101,7 @@
                 "referenceId": "ShawnaGreen"
             },
             "Name": "Shawna Green",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5VUNAA31466707024358",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -118,7 +118,7 @@
                 "referenceId": "CharlesGreen"
             },
             "Name": "Charles Green",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5Sa6AAF1466703191917",
             "BillingCity": "San Francisco",
             "BillingCountry": "USA",
@@ -151,7 +151,7 @@
                 "referenceId": "JanetCampbell"
             },
             "Name": "Janet Campbell",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5UPoAAN1466705834055",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",
@@ -167,7 +167,7 @@
                 "referenceId": "JaneHamilton"
             },
             "Name": "Jane Hamilton",
-            "Record_Type__c": "IndustriesIndividual",
+            "RecordTypeId": "IndustriesIndividual",
             "HealthCloudGA__IndividualId__c": "0013600000Q5UPnAAN1466705834055",
             "HealthCloudGA__Disabled__c": false,
             "HealthCloudGA__IndividualType__c": "Individual",

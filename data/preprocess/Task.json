@@ -1,19 +1,325 @@
 {
     "records": [
-        {
-            "attributes": {
-                "type": "Task",
-                "referenceId": "TaskRef1"
-            },
-            "WhatId": "@CharlesGreen",
-            "ActivityDate": "2019-03-29",
-            "HealthCloudGA__TaskType__c": "Uncategorized",
-            "IsRecurrence": false,
-            "IsReminderSet": false,
-            "Priority": "Normal",
-            "Status": "Completed",
-            "Subject": "Schedule Appointment for CT Scan",
-            "TaskSubtype": "Task"
-        }
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef1"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@CharlesGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-13",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "RecordTypeId": "0120R000001W1bhQAC",
+        "Status": "Not Started",
+        "Subject": "Weekly Check-In",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef2"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@CharlesGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-14",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-14T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef3"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@CharlesGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-15",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-15T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef4"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@CharlesGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2019-12-06",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "Status": "Not Started",
+        "Subject": "Start exercise program for 10 minutes daily",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef5"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@CharlesGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2019-11-21",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "Status": "Not Started",
+        "Subject": "Follow up with dietitian for diet plan",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef6"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@CharlesGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2019-12-12",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "Status": "Not Started",
+        "Subject": "Evening Blood Glucose Check",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef7"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@ShawnaGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-13",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "RecordTypeId": "0120R000001W1bhQAC",
+        "Status": "Not Started",
+        "Subject": "Hospital Discharge Assessment",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef8"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@ShawnaGreen_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-15",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-15T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef9"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@ShawnaGreen",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-14",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-14T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef10"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@JanetCampbell_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-13",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "RecordTypeId": "0120R000001W1bhQAC",
+        "Status": "Not Started",
+        "Subject": "PT Follow-Up Appointment",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef11"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@JanetCampbell_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-15",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-15T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef12"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@JanetCampbell_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-14",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-14T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef13"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@JaneHamilton_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-13",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "RecordTypeId": "0120R000001W1bhQAC",
+        "Status": "Not Started",
+        "Subject": "Prescription Refill",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef14"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@JaneHamilton_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-14",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-14T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef15"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@JaneHamilton_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-15",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-15T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef16"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@DavidMorrison_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-13",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": false,
+        "Priority": "Normal",
+        "RecordTypeId": "0120R000001W1bhQAC",
+        "Status": "Not Started",
+        "Subject": "Diabetes Education Questions",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef17"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@DavidMorrison_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-14",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-14T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      },
+      {
+        "attributes": {
+          "type": "Task",
+          "referenceId": "TaskRef18"
+        },
+        "OwnerId": "0050R000004HCMpQAO",
+        "WhatId": "@DavidMorrison_CarePlan",
+        "WhoId": "Charles Green",
+        "ActivityDate": "2020-01-15",
+        "HealthCloudGA__TaskType__c": "Uncategorized",
+        "IsRecurrence": false,
+        "IsReminderSet": true,
+        "Priority": "Normal",
+        "ReminderDateTime": "2020-01-15T15:00:00.000+0000",
+        "Status": "Not Started",
+        "Subject": "Example task",
+        "TaskSubtype": "Task"
+      }
     ]
-}
+  }
