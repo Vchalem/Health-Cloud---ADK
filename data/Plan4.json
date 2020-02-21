@@ -60,12 +60,6 @@
         "files": ["Case.json"]
     },
     {
-        "sobject": "Task",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": ["Task.json"]
-    },
-    {
         "sobject": "HealthCloudGA__CarePlanProblem__c",
         "saveRefs": true,
         "resolveRefs": true,
