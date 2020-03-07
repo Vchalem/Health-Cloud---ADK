@@ -10,12 +10,15 @@
       "PersonAccounts",
       "AnalyticsAdminPerms"
   ],
-    "settings": {
-      "orgPreferenceSettings": {
-        "s1DesktopEnabled": true,
-        "chatterEnabled": true,
-        "networksEnabled": true
-      }
+  "settings": {
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+    },
+    "chatterSettings": {
+        "enableChatter": true
+    },
+    "communitiesSettings": {
+        "enableNetworksEnabled": true
     }
 }
 

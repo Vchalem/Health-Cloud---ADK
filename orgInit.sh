@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Create the scratch org
-sfdx force:org:create -f config/project-scratch-def.json -a HCADK --setdefaultusername -d 1
+sfdx force:org:create -f config/project-scratch-def.json -a HCADK --setdefaultusername -d 30
 
 # Install the package
-sfdx force:package:install --package 04t1C000000Y1Qe -w 30 
+sfdx force:package:install --package 04t1C000000go7oQAA -w 50
 # 216: --package 04t1C000000AoPO
 # 218: --package 04t1C000000ApHp
 # 220: --package 04t1C000000Apj5
