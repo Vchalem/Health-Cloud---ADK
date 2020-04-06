@@ -10,11 +10,12 @@ else
 fi
 
 # Install the package
-sfdx force:package:install --package 04t1C000000Y1Qe -w 30 
+sfdx force:package:install --package 04t1C000000go7o -w 30 
 # 216: --package 04t1C000000AoPO
 # 218: --package 04t1C000000ApHp
 # 220: --package 04t1C000000Apj5
 # 222: --package 04t1C000000Y1Qe
+# 224: --package 04t1C000000go7o
 
 #Install the unmanaged package extension
 sfdx force:package:install --package 04tC0000001Eeby -w 30
