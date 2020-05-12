@@ -18,7 +18,7 @@ sfdx force:package:install --package 04t1C000000go7o -w 30
 # 224: --package 04t1C000000go7o
 
 #Install the unmanaged package extension
-sfdx force:package:install --package 04tC0000001Eeby -w 30
+sfdx force:package:install --package 04t5w0000048cTh -w 30
 
 # Deploy the metadata packages
 sfdx force:mdapi:deploy --deploydir mdapi-source/app-config -w 20
